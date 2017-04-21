@@ -1,0 +1,581 @@
+Proceedings of the 2010 ACM conference on Computer supported cooperative work
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Won't get fooled again: honesty and trust online
+	Elizabeth Churchill
+	
+	"on my way": deceptive texting and interpersonal awareness narratives
+	Jeremy Birnholtz, Jamie Guillory, Jeff Hancock, Natalya Bazarova
+	Pages: 1-4
+	doi>10.1145/1718918.1718920
+	Full text: PDFPDF
+	
+
+Managing one's availability for interaction with others is an increasingly complex act, involving multiple media and the sharing of many types of information. In this paper we draw on a field study of 183 SMS users to introduce the idea of the "interpersonal ...
+expand
+	Reading between the lines: linguistic cues to deception in online dating profiles
+	Catalina L. Toma, Jeffrey T. Hancock
+	Pages: 5-8
+	doi>10.1145/1718918.1718921
+	Full text: PDFPDF
+	
+
+This study investigates whether deception in online dating profiles is detectable through a linguistic approach, which assumes that liars nonconsciously produce different word patterns than truth-tellers. We objectively measure deception in online dating ...
+expand
+	Warrants and deception in computer mediated communication
+	Darcy Warkentin, Michael Woodworth, Jeffrey T. Hancock, Nicole Cormier
+	Pages: 9-12
+	doi>10.1145/1718918.1718922
+	Full text: PDFPDF
+	
+
+This article explores the operation of warrants, connections between online and real-world identities, on deceptive behavior in computer-mediated communication. A survey of 132 participants assessed three types of warrants (the use of a real name, a ...
+expand
+	Perceptions of trustworthiness online: the role of visual and textual information
+	Catalina L. Toma
+	Pages: 13-22
+	doi>10.1145/1718918.1718923
+	Full text: PDFPDF
+	
+
+People increasingly rely on social networking websites to initiate personal and professional relationships. This requires that a considerable amount of trust be placed in strangers solely on the basis of their online profiles. This paper examines how ...
+expand
+	SESSION: He said she said: analyzing interaction patterns
+	Darren Gergle
+	
+	Social language network analysis
+	Andrew J. Scholand, Yla R. Tausczik, James W. Pennebaker
+	Pages: 23-26
+	doi>10.1145/1718918.1718925
+	Full text: PDFPDF
+	
+
+In this note we introduce a new methodology that combines tools from social language processing and network analysis to identify socially situated relationships between individuals, even when these relationships are latent or unrecognized. We call this ...
+expand
+	Notifications and awareness: a field study of alert usage and preferences
+	Shamsi T. Iqbal, Eric Horvitz
+	Pages: 27-30
+	doi>10.1145/1718918.1718926
+	Full text: PDFPDF
+	
+
+Desktop notifications are designed to provide awareness of information while a user is attending to a primary task. Unfortunately the awareness can come with the price of disruption to the focal task. We review results of a field study on the use and ...
+expand
+	Receptionist or information kiosk: how do people talk with a robot?
+	Min Kyung Lee, Sara Kiesler, Jodi Forlizzi
+	Pages: 31-40
+	doi>10.1145/1718918.1718927
+	Full text: PDFPDF
+	
+
+The mental structures that people apply towards other people have been shown to influence the way people cooperate with others. These mental structures or schemas evoke behavioral scripts. In this paper, we explore two different scripts, receptionist ...
+expand
+	Same places, same things, same people?: mining user similarity on social media
+	Ido Guy, Michal Jacovi, Adam Perer, Inbal Ronen, Erel Uziel
+	Pages: 41-50
+	doi>10.1145/1718918.1718928
+	Full text: PDFPDF
+	
+
+In this work we examine nine different sources for user similarity as reflected by activity in social media applications. We suggest a classification of these sources into three categories: people, things, and places. Lists of similar people returned ...
+expand
+	SESSION: Helping hands: communities and volunteers
+	John Tang
+	
+	Interorganizational coordination and awareness in a nonprofit ecosystem
+	Jennifer Stoll, W. Keith Edwards, Elizabeth D. Mynatt
+	Pages: 51-60
+	doi>10.1145/1718918.1718930
+	Full text: PDFPDF
+	
+
+Nonprofit organizations working with high-risk vulnerable populations such as human trafficking victims often need to engage in a significant level of interorganizational collaboration. Given the importance for nonprofits to be able to work with many ...
+expand
+	Eliciting and focusing geographic volunteer work
+	Reid Priedhorsky, Mikhil Masli, Loren Terveen
+	Pages: 61-70
+	doi>10.1145/1718918.1718931
+	Full text: PDFPDF
+	
+
+Open content communities such as wikis derive their value from the work done by users. However, a key challenge is to elicit work that is sufficient and focused where needed. We address this challenge in a geographic open content community, the Cyclopath ...
+expand
+	An empirical study of critical mass and online community survival
+	Daphne R. Raban, Mihai Moldovan, Quentin Jones
+	Pages: 71-80
+	doi>10.1145/1718918.1718932
+	Full text: PDFPDF
+	
+
+There is general consensus that critical mass at inception ensures the sustained success of online communities. However, no clear understanding of what constitutes such a 'critical mass' exists and too few quantitative studies have been conducted into ...
+expand
+	SESSION: Meeting in the middle
+	Umer Farooq
+	
+	Lessons from thoughtswap-ing: increasing participants' coordinative agency in facilitated discussions
+	Margaret Dickey-Kurdziolek, Matthew Schaefer, Deborah Tatar, Ian P. Renga
+	Pages: 81-90
+	doi>10.1145/1718918.1718934
+	Full text: PDFPDF
+	
+
+A successful collaborative tool designed to aid discussion must be flexible, maintain the user's coordinative agency, and be appropriable in many contexts. We have developed a tool, called ThoughtSwap, to help widen and deepen the scope of participation ...
+expand
+	Throwing voices: the psychological impact of the spatial height of projected voices
+	Leila Takayama, Clifford Nass
+	Pages: 91-94
+	doi>10.1145/1718918.1718935
+	Full text: PDFPDF
+	
+
+Communication mediating technologies are throwing our voices away from our bodies in situations ranging from voice conference meetings to mass presentations. Physical height is known to influence dominance in interactions between people. This study explores ...
+expand
+	Exploring spatialized audio & video for distributed conversations
+	Kori Inkpen, Rajesh Hegde, Mary Czerwinski, Zhengyou Zhang
+	Pages: 95-98
+	doi>10.1145/1718918.1718936
+	Full text: PDFPDF
+	
+
+Previous work has demonstrated the benefits of spatial audio conferencing over monophonic when listening to a group conversation. In this paper we examined three-way distributed conversations while varying the presence of spatial video and audio. Our ...
+expand
+	Catchup: a useful application of time-travel in meetings
+	Simon Tucker, Ofer Bergman, Anand Ramamoorthy, Steve Whittaker
+	Pages: 99-102
+	doi>10.1145/1718918.1718937
+	Full text: PDFPDF
+	
+
+People are often required to catch up on information they have missed in meetings, because of lateness or scheduling conflicts. Catching up is a complex cognitive process where people try to understand the current conversation without access to prior ...
+expand
+	Idea expander: supporting group brainstorming with conversationally triggered visual thinking stimuli
+	Hao-Chuan Wang, Dan Cosley, Susan R. Fussell
+	Pages: 103-106
+	doi>10.1145/1718918.1718938
+	Full text: PDFPDF
+	
+
+Creativity is central to much human problem solving and innovation. Brainstorming processes attempt to leverage group creativity, but group dynamics sometimes limit their utility. We present IdeaExpander, a tool to support group brainstorming by intelligently ...
+expand
+	SESSION: Wikipedia as a collaboration culture
+	David Millen
+	
+	Socialization tactics in wikipedia and their effects
+	Boreum Choi, Kira Alexander, Robert E. Kraut, John M. Levine
+	Pages: 107-116
+	doi>10.1145/1718918.1718940
+	Full text: PDFPDF
+	
+
+Socialization of newcomers is critical both for conventional groups. It helps groups perform effectively and the newcomers develop commitment. However, little empirical research has investigated the impact of specific socialization tactics on newcomers' ...
+expand
+	The work of sustaining order in wikipedia: the banning of a vandal
+	R. Stuart Geiger, David Ribes
+	Pages: 117-126
+	doi>10.1145/1718918.1718941
+	Full text: PDFPDF
+	
+
+In this paper, we examine the social roles of software tools in the English-language Wikipedia, specifically focusing on autonomous editing programs and assisted editing tools. This qualitative research builds on recent research in which we quantitatively ...
+expand
+	Readers are not free-riders: reading as a form of participation on wikipedia
+	Judd Antin, Coye Cheshire
+	Pages: 127-130
+	doi>10.1145/1718918.1718942
+	Full text: PDFPDF
+	
+
+The success of Wikipedia as a large-scale collaborative effort has spurred researchers to examine the motivations and behaviors of Wikipedia's participants. However, this research has tended to focus on active involvement rather than more common forms ...
+expand
+	Egalitarians at the gate: one-sided gatekeeping practices in social media
+	Brian Keegan, Darren Gergle
+	Pages: 131-134
+	doi>10.1145/1718918.1718943
+	Full text: PDFPDF
+	
+
+Although Wikipedia has increasingly attracted attention for its in-depth and timely coverage of breaking news stories, the social dynamics of how Wikipedia editors process breaking news items has not been systematically examined. Through a 3-month study ...
+expand
+	SESSION: Wish you were here: communication in families
+	Steve Whittaker
+	
+	Home video communication: mediating 'closeness'
+	David S. Kirk, Abigail Sellen, Xiang Cao
+	Pages: 135-144
+	doi>10.1145/1718918.1718945
+	Full text: PDFPDF
+	
+
+Video-mediated communication (VMC) technologies are becoming rapidly adopted by home users. Little research has previously been conducted into why home users would choose to use VMC or their practices surrounding its use. We present the results of an ...
+expand
+	Making love in the network closet: the benefits and work of family videochat
+	Morgan G. Ames, Janet Go, Joseph 'Jofish' Kaye, Mirjana Spasojevic
+	Pages: 145-154
+	doi>10.1145/1718918.1718946
+	Full text: PDFPDF
+	
+
+In this paper, we explore the benefits of videochat for families and the corresponding work that home users engage in to make a video call run smoothly. We explore the varieties of social work required, including coordination work, presentation work, ...
+expand
+	Understanding family communication across time zones
+	Xiang Cao, Abigail Sellen, A.J. Bernheim Brush, David Kirk, Darren Edge, Xianghua Ding
+	Pages: 155-158
+	doi>10.1145/1718918.1718947
+	Full text: PDFPDF
+	
+
+Nowadays it has become increasingly common for family members to be distributed in different time zones. These time differences pose specific challenges for communication within the family and result in different communication practices to cope with ...
+expand
+	SESSION: Groupware technologies
+	Mor Naaman
+	
+	A sequence transformation algorithm for supporting cooperative work on mobile devices
+	Bin Shao, Du Li, Ning Gu
+	Pages: 159-168
+	doi>10.1145/1718918.1718949
+	Full text: PDFPDF
+	
+
+Operational transformation (OT) is a promising technique for supporting collaboration using mobile devices because it allows users to work on local data replicas even in a disconnected mode. However, as work goes mobile, a large number of operations ...
+expand
+	Multiple mouse text entry for single-display groupware
+	Saleema Amershi, Meredith Ringel Morris, Neema Moraveji, Ravin Balakrishnan, Kentaro Toyama
+	Pages: 169-178
+	doi>10.1145/1718918.1718950
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+A recent trend in interface design for classrooms in developing regions has many students interacting on the same display using mice. Text entry has emerged as an important problem preventing such mouse-based singledisplay groupware systems from offering ...
+expand
+	Gone but not forgotten: designing for disconnection in synchronous groupware
+	Carl Gutwin, T.C. Nicholas Graham, Chris Wolfe, Nelson Wong, Brian de Alwis
+	Pages: 179-188
+	doi>10.1145/1718918.1718951
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+Synchronous groupware depends on the assumption that people are fully connected to the others in the group, but there are many situations (network delay, network outage, or explicit departure) where users are disconnected for various periods. There is ...
+expand
+	SESSION: Me, us and them: affiliation, reputation and social media use
+	Ed Chi
+	
+	Is it really about me?: message content in social awareness streams
+	Mor Naaman, Jeffrey Boase, Chih-Hui Lai
+	Pages: 189-192
+	doi>10.1145/1718918.1718953
+	Full text: PDFPDF
+	
+
+In this work we examine the characteristics of social activity and patterns of communication on Twitter, a prominent example of the emerging class of communication systems we call "social awareness streams." We use system data and message content from ...
+expand
+	Student athletes on facebook
+	Cliff Lampe, Nicole B. Ellison
+	Pages: 193-196
+	doi>10.1145/1718918.1718954
+	Full text: PDFPDF
+	
+
+Student athletes at U.S. universities are bound by rules affecting their participation in their sport and are highly visible to their fellow students and a larger public of fans. This difference makes them more likely than other students to be sensitive ...
+expand
+	Sending mixed signals: multilevel reputation effects in peer-to-peer lending markets
+	Benjamin C. Collier, Robert Hampshire
+	Pages: 197-206
+	doi>10.1145/1718918.1718955
+	Full text: PDFPDF
+	
+
+Online peer-to-peer (P2P) lending organizations enable an individual to obtain an unsecured loan from a collection of individuals without the participation of a bank. Previous research has addressed the use of reputation systems to reduce information ...
+expand
+	SESSION: Social software engineering
+	Carl Gutwin
+	
+	API peer reviews: a method for evaluating usability of application programming interfaces
+	Umer Farooq, Dieter Zirkler
+	Pages: 207-210
+	doi>10.1145/1718918.1718957
+	Full text: PDFPDF
+	
+
+API usability tests in the lab are time and resource intensive, thus allowing a relatively small percentage of the API namespace to be evaluated. We describe a group-based usability inspection method -- API Peer Reviews -- to evaluate API usability. ...
+expand
+	Are you having difficulty?
+	Jason Carter, Prasun Dewan
+	Pages: 211-214
+	doi>10.1145/1718918.1718958
+	Full text: PDFPDF
+	
+
+It would be useful if software engineers/instructors could be aware that remote team members/students are having difficulty with their programming tasks. We have developed an approach that tries to automatically create this semantic awareness based on ...
+expand
+	Beyond Wikipedia: coordination and conflict in online production groups
+	Aniket Kittur, Robert E. Kraut
+	Pages: 215-224
+	doi>10.1145/1718918.1718959
+	Full text: PDFPDF
+	
+
+Online production groups have the potential to transform the way that knowledge is produced and disseminated. One of the most widely used forms of online production is the wiki, which has been used in domains ranging from science to education to enterprise. ...
+expand
+	SESSION: Participating online
+	Cliff Lampe
+	
+	Understanding deja reviewers
+	Eric Gilbert, Karrie Karahalios
+	Pages: 225-228
+	doi>10.1145/1718918.1718961
+	Full text: PDFPDF
+	
+
+People who review products on the web invest considerable time and energy in what they write. So why would someone write a review that restates earlier reviews? Our work looks to answer this question. In this paper, we present a mixed-method study of ...
+expand
+	On the "localness" of user-generated content
+	Brent J. Hecht, Darren Gergle
+	Pages: 229-232
+	doi>10.1145/1718918.1718962
+	Full text: PDFPDF
+	
+
+The "localness" of participation in repositories of user-generated content (UGC) with geospatial components has been cited as one of UGC's greatest benefits. However, the degree of localness in major UGC repositories such as Flickr and Wikipedia has ...
+expand
+	Determinants of wikipedia quality: the roles of global and local contribution inequality
+	Ofer Arazy, Oded Nov
+	Pages: 233-236
+	doi>10.1145/1718918.1718963
+	Full text: PDFPDF
+	
+
+The success of Wikipedia and the relative high quality of its articles seem to contradict conventional wisdom. Recent studies have begun shedding light on the processes contributing to Wikipedia's success, highlighting the role of coordination and contribution ...
+expand
+	Inspired by the audience: a topic suggestion system for blog writers and readers
+	Werner Geyer, Casey Dugan
+	Pages: 237-240
+	doi>10.1145/1718918.1718964
+	Full text: PDFPDF
+	
+
+Employee blogging has benefits both for individuals and the organization. In order to inspire the creation of blog posts, we developed a novel topic suggestion system that connects blog readers with blog writers through sharing topics of interest. We ...
+expand
+	Chatter on the red: what hazards threat reveals about the social life of microblogged information
+	Kate Starbird, Leysia Palen, Amanda L. Hughes, Sarah Vieweg
+	Pages: 241-250
+	doi>10.1145/1718918.1718965
+	Full text: PDFPDF
+	
+
+This paper considers a subset of the computer-mediated communication (CMC) that took place during the flooding of the Red River Valley in the US and Canada in March and April 2009. Focusing on the use of Twitter, a microblogging service, we identified ...
+expand
+	SESSION: Collaboration in place
+	Bjoern Hartmann
+	
+	Telling the whole story: anticipation, inspiration and reputation in a field deployment of TellTable
+	Xiang Cao, Siân E. Lindley, John Helmes, Abigail Sellen
+	Pages: 251-260
+	doi>10.1145/1718918.1718967
+	Full text: PDFPDF
+	Other formats: WmvWmv
+	
+
+We present a field study of TellTable, a new storytelling system designed to support creativity and collaboration amongst children. The application was deployed on a multi-touch interactive table in the library of a primary school, where children could ...
+expand
+	Opening up the family archive
+	David S. Kirk, Shahram Izadi, Abigail Sellen, Stuart Taylor, Richard Banks, Otmar Hilliges
+	Pages: 261-270
+	doi>10.1145/1718918.1718968
+	Full text: PDFPDF
+	
+
+The Family Archive device is an interactive multi-touch tabletop technology with integrated capture facility for the archiving of sentimental artefacts and memorabilia. It was developed as a technology probe to help us open up current family archiving ...
+expand
+	Three's company: understanding communication channels in three-way distributed collaboration
+	Anthony Tang, Michel Pahud, Kori Inkpen, Hrvoje Benko, John C. Tang, Bill Buxton
+	Pages: 271-280
+	doi>10.1145/1718918.1718969
+	Full text: PDFPDF
+	
+
+We explore the design of a system for three-way collaboration over a shared visual workspace, specifically in how to support three channels of communication: person, reference, and task-space. In two studies, we explore the implications of extending ...
+expand
+	SESSION: A bug's life: collaborative debugging
+	Michael Twidale
+	
+	Sources of errors in distributed development projects: implications for collaborative tools
+	Marcelo Cataldo
+	Pages: 281-290
+	doi>10.1145/1718918.1718971
+	Full text: PDFPDF
+	
+
+An important dimension of success in development projects is the quality of the new product. Researchers have primarily concentrated on developing and evaluating processes to reduce errors and mistakes and, consequently, achieve higher levels of quality. ...
+expand
+	Communication, collaboration, and bugs: the social nature of issue tracking in small, collocated teams
+	Dane Bertram, Amy Voida, Saul Greenberg, Robert Walker
+	Pages: 291-300
+	doi>10.1145/1718918.1718972
+	Full text: PDFPDF
+	
+
+Issue tracking systems help organizations manage issue reporting, assignment, tracking, resolution, and archiving. Traditionally, it is the Software Engineering community that researches issue tracking systems, where software defects are reported and ...
+expand
+	Information needs in bug reports: improving cooperation between developers and users
+	Silvia Breu, Rahul Premraj, Jonathan Sillito, Thomas Zimmermann
+	Pages: 301-310
+	doi>10.1145/1718918.1718973
+	Full text: PDFPDF
+	
+
+For many software projects, bug tracking systems play a central role in supporting collaboration between the developers and the users of the software. To better understand this collaboration and how tool support can be improved, we have quantitatively ...
+expand
+	SESSION: Everyday healthcare
+	David McDonald
+	
+	Invisible emotion: information and interaction in an emergency room
+	Helena M. Mentis, Madhu Reddy, Mary Beth Rosson
+	Pages: 311-320
+	doi>10.1145/1718918.1718975
+	Full text: PDFPDF
+	
+
+Emotions are an often overlooked aspect of work since they are not included in formal work models. However, they continue provide critical information as well as be part of a rich social context for action. The following study focuses on the expression ...
+expand
+	Understanding together: sensemaking in collaborative information seeking
+	Sharoda A. Paul, Madhu C. Reddy
+	Pages: 321-330
+	doi>10.1145/1718918.1718976
+	Full text: PDFPDF
+	
+
+An important aspect of collaborative information seeking (CIS) is making sense of the information found, i.e., collaborative sensemaking. We conducted an ethnographic study of the CIS practices of healthcare providers in a hospital emergency department ...
+expand
+	Why the plan doesn't hold: a study of situated planning, articulation and coordination work in a surgical ward
+	Jakob E. Bardram, Thomas Riisgaard Hansen
+	Pages: 331-340
+	doi>10.1145/1718918.1718977
+	Full text: PDFPDF
+	
+
+Most studies of plans and situated work have applied ethnographic methods and and thus fail to provide any quantitative insight into the extent of this phenomenon. We present a study of planning and executing operations in an operating suite. Quantitative ...
+expand
+	SESSION: Crossing cultures
+	Jeanette Blomberg
+	
+	What's it worth to you?: the costs and affordances of CMC tools to asian and american users
+	Leslie D. Setlock, Susan R. Fussell
+	Pages: 341-350
+	doi>10.1145/1718918.1718979
+	Full text: PDFPDF
+	
+
+In recent years, a growing number of studies examining how culture shapes computer-mediated communication (CMC) have appeared in the CHI and CSCW literature. Findings from these studies reveal that cultural differences exist, but no clear underlying ...
+expand
+	Groups in groups: conversational similarity in online multicultural multiparty brainstorming
+	Hao-Chuan Wang, Susan Fussell
+	Pages: 351-360
+	doi>10.1145/1718918.1718980
+	Full text: PDFPDF
+	
+
+Online collaboration, in comparison to face-to-face collaboration, is advantageous in making multiparty teamwork possible at a very low cost. As multicultural multiparty collaboration becomes ubiquitous, it is crucial to understand how communication ...
+expand
+	Street fighter IV: braggadocio off and on-line
+	Norman Makoto Su
+	Pages: 361-370
+	doi>10.1145/1718918.1718981
+	Full text: PDFPDF
+	
+
+In its heyday, the video arcade was a social scene to prove one's video gaming prowess. The introduction of a revolutionary head-to-head fighting game called "Street Fighter II" in 1991 ushered in an era of competitive video gaming with unparalleled ...
+expand
+	SESSION: All in the family: living and playing together
+	David Ayman Shamma
+	
+	The individual and the group in console gaming
+	Amy Voida, Sheelagh Carpendale, Saul Greenberg
+	Pages: 371-380
+	doi>10.1145/1718918.1718983
+	Full text: PDFPDF
+	
+
+In this paper, we present results from a study of collocated group console gaming. We focus, in particular, on observed gaming practices that emphasized the individual gamer within a gaming group as well as practices that emphasized the gaming group ...
+expand
+	The roles that make the domestic work
+	Jennifer A. Rode
+	Pages: 381-390
+	doi>10.1145/1718918.1718984
+	Full text: PDFPDF
+	
+
+This paper builds on earlier CSCW studies of domestic technologies, looking at the frequent maintenance required by new security technologies that households are adopting to provide safety and security. It explores how the roles and responsibilities ...
+expand
+	Sonic souvenirs: exploring the paradoxes of recorded sound for family remembering
+	Lina Dib, Daniela Petrelli, Steve Whittaker
+	Pages: 391-400
+	doi>10.1145/1718918.1718985
+	Full text: PDFPDF
+	
+
+Many studies have explored social processes and technologies associated with sharing photos. In contrast, we explore the role of sound as a medium for social reminiscing. We involved 10 families in recording 'sonic souvenirs' of their holidays. They ...
+expand
+	SESSION: What's that?: collaborative visual sense-making
+	Les Nelson
+	
+	WeSearch: supporting collaborative search and sensemaking on a tabletop display
+	Meredith Ringel Morris, Jarrod Lombardo, Daniel Wigdor
+	Pages: 401-410
+	doi>10.1145/1718918.1718987
+	Full text: PDFPDF
+	Other formats: WmvWmv
+	
+
+Groups of users often have shared information needs -- for example, business colleagues need to conduct research relating to joint projects and students must work together on group homework assignments. In this paper, we introduce WeSearch, a collaborative ...
+expand
+	Pitfalls of information access with visualizations in remote collaborative analysis
+	Aruna D. Balakrishnan, Susan R. Fussell, Sara Kiesler, Aniket Kittur
+	Pages: 411-420
+	doi>10.1145/1718918.1718988
+	Full text: PDFPDF
+	
+
+In a world of widespread information access, information can overwhelm collaborators, even with visualizations to help. We extend prior work to study the effect of shared information on collaboration. We analyzed the success and discussion process of ...
+expand
+	Pictionaire: supporting collaborative design work by integrating physical and digital artifacts
+	Björn Hartmann, Meredith Ringel Morris, Hrvoje Benko, Andrew D. Wilson
+	Pages: 421-424
+	doi>10.1145/1718918.1718989
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This paper introduces an interactive tabletop system that enhances creative collaboration across physical and digital artifacts. Pictionaire offers capture, retrieval, annotation, and collection of visual material. It enables multiple designers to fluidly ...
+expand
+	SESSION: Communication technologies for social inclusion
+	Madhu Reddy
+	
+	Social use of computer-mediated communication by adults on the autism spectrum
+	Moira Burke, Robert Kraut, Diane Williams
+	Pages: 425-434
+	doi>10.1145/1718918.1718991
+	Full text: PDFPDF
+	
+
+The defining characteristics of autism, including difficulty with nonverbal cues and need for structure, and the defining characteristics of computer-mediated communication (CMC), including reduction of extraneous cues and structured exchange, suggest ...
+expand
+	Characteristics of shared health reflections in a local community
+	Andrea Grimes, Brian M. Landry, Rebecca E. Grinter
+	Pages: 435-444
+	doi>10.1145/1718918.1718992
+	Full text: PDFPDF
+	
+
+We performed a content analysis of the information shared in a locally and culturally focused health application, EatWell. In EatWell, information is shared via the creation of audio recordings. Our results highlight the reflective nature of these recordings, ...
+expand
+	Survival needs and social inclusion: technology use among the homeless
+	Jahmeilah Roberson, Bonnie Nardi
+	Pages: 445-448
+	doi>10.1145/1718918.1718993
+	Full text: PDFPDF
+	
+
+This research reports an ethnographic study of issues surrounding digital technologies owned and used by homeless people in Los Angeles County. We identify two themes--survival and social inclusion--that reveal, in part, how digital technologies enable ...
+expand 

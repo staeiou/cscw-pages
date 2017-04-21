@@ -1,0 +1,1080 @@
+Proceedings of the ACM 2011 conference on Computer supported cooperative work
+Table of Contents
+previousprevious proceeding |next proceeding next
+	SESSION: Showcase I
+	Gary Olson
+	
+	Urban informatics
+	Marcus Foth, Jaz Hee-jeong Choi, Christine Satchell
+	Pages: 1-8
+	doi>10.1145/1958824.1958826
+	Full text: PDFPDF
+	
+
+The increasing ubiquity of digital technology, internet services and social media in our everyday lives allows for a seamless transitioning between the visible and the invisible infrastructure of cities: road systems, building complexes, information ...
+expand
+	Technology for emerging markets at MSR india
+	Edward Cutrell
+	Pages: 9-16
+	doi>10.1145/1958824.1958827
+	Full text: PDFPDF
+	
+
+The Technology for Emerging Markets (TEM) group at Microsoft Research India seeks to address the needs and aspirations of people in the world's developing communities. Our research targets people who are just beginning to use computing technologies and ...
+expand
+	Mixed reality lab Singapore: a genealogy of lab projects employing the blue sky innovation research methodology
+	Adrian David Cheok, Jeffrey Tzu Kwan Valino Koh, Roshan Lalintha Peiris, Owen Noel Newton Fernando
+	Pages: 17-24
+	doi>10.1145/1958824.1958828
+	Full text: PDFPDF
+	
+
+In this paper we outline a genealogy of Mixed Reality Lab (MXR) projects, their influencing factors both from the Asian region and also within the lab, the employment of "Blue-Sky Innovation" by the lab for ideation, collaboration and project generation, ...
+expand
+	SESSION: Social computing in China
+	Jenn Thom-Santelli
+	
+	Microblogging after a major disaster in China: a case study of the 2010 Yushu earthquake
+	Yan Qu, Chen Huang, Pengyi Zhang, Jun Zhang
+	Pages: 25-34
+	doi>10.1145/1958824.1958830
+	Full text: PDFPDF
+	
+
+In this work, we conducted a case study of a popular Chinese microblogging site, Sina-Weibo, to investigate how Chinese netizens used microblogging in response to a major disaster: the 2010 Yushu Earthquake. We combined multiple analysis methods in this ...
+expand
+	Enterprise blogging in a global context: comparing Chinese and American practices
+	Qinying Liao, Shimei Pan, Jennifer C. Lai, Chang Yang
+	Pages: 35-44
+	doi>10.1145/1958824.1958831
+	Full text: PDFPDF
+	
+
+We present three studies that compare adoption and appropriation between China and the United States of BlogCentral, an internal blogging tool employed by a large global enterprise. We first analyzed 23 months of usage logs for users in both countries ...
+expand
+	Virtual gifts and guanxi: supporting social exchange in a chinese online community
+	Jiang Yang, Mark S. Ackerman, Lada A. Adamic
+	Pages: 45-54
+	doi>10.1145/1958824.1958832
+	Full text: PDFPDF
+	
+
+Significant cultural differences persist between East and West. Software systems that have been proven to operate efficiently within one culture can fail in the context of the other, especially if they are intended to support rich social interactions. ...
+expand
+	SESSION: The ICT that binds
+	Bob Moore
+	
+	Understanding technology choices and values through social class
+	Morgan G. Ames, Janet Go, Joseph 'Jofish' Kaye, Mirjana Spasojevic
+	Pages: 55-64
+	doi>10.1145/1958824.1958834
+	Full text: PDFPDF
+	
+
+This ethnographic study of 22 diverse families in the San Francisco Bay Area provides a holistic account of parents' attitudes about their children's use of technology. We found that parents from different socioeconomic classes have different values ...
+expand
+	CoupleVIBE: mobile implicit communication to improve awareness for (long-distance) couples
+	Elizabeth Bales, Kevin A. Li, William Griwsold
+	Pages: 65-74
+	doi>10.1145/1958824.1958835
+	Full text: PDFPDF
+	
+
+Long-distance couples face considerable communication challenges in their relationships. Unlike collocated couples, long-distance couples lack awareness cues associated with physical proximity and must use technologies such as SMS or telephony to stay ...
+expand
+	(Whose) value-sensitive design: a study of long- distance relationships in an Arabic cultural context
+	Tamara Alsheikh, Jennifer A. Rode, Siân E. Lindley
+	Pages: 75-84
+	doi>10.1145/1958824.1958836
+	Full text: PDFPDF
+	
+
+This paper describes a qualitative study of how 11 Arab individuals use technology in the context of their long-distance romantic relationships. Our participants' communication practices bear similarities to previous findings on the mediation of intimacy ...
+expand
+	SESSION: Making invisible visible
+	Kori Inkpen
+	
+	Chalk sounds: the effects of dynamic synthesized audio on workspace awareness in distributed groupware
+	Carl Gutwin, Oliver Schneider, Robert Xiao, Stephen Brewster
+	Pages: 85-94
+	doi>10.1145/1958824.1958838
+	Full text: PDFPDF
+	
+
+Awareness of other people's activity is an important part of shared-workspace collaboration, and is typically supported using visual awareness displays such as radar views. These visual presentations are limited in that the user must be able to see and ...
+expand
+	Improving visibility of remote gestures in distributed tabletop collaboration
+	Naomi Yamashita, Katsuhiko Kaji, Hideaki Kuzuoka, Keiji Hirata
+	Pages: 95-104
+	doi>10.1145/1958824.1958839
+	Full text: PDFPDF
+	
+
+Collaborative distributed tabletop activities involving real objects are complicated by invisibility factors introduced into the workspace. In this paper, we propose a technique called "remote lag" to alleviate the problems caused by the invisibility ...
+expand
+	A GPU based, projective multi-texturing approach to reconstructing the 3D human form for application in tele-presence
+	Robert A. Aspin, David J. Roberts
+	Pages: 105-112
+	doi>10.1145/1958824.1958840
+	Full text: PDFPDF
+	
+
+This paper reports a GPU based, projective texturing approach to reconstructing the human form, from multiple images, at a quality and frame rate close to high end video conferencing. The ultimate aim is to support spatially grounded, non-verbal communication ...
+expand
+	SESSION: Comment here
+	N. Sadat Shami
+	
+	The politics of comments: predicting political orientation of news stories with commenters' sentiment patterns
+	Souneil Park, Minsam Ko, Jungwoo Kim, Ying Liu, Junehwa Song
+	Pages: 113-122
+	doi>10.1145/1958824.1958842
+	Full text: PDFPDF
+	
+
+Political views frequently conflict in the coverage of contentious political issues, potentially causing serious social problems. We present a novel social annotation analysis approach for identification of news articles' political orientation. The approach ...
+expand
+	"We will never forget you [online]": an empirical investigation of post-mortem myspace comments
+	Jed R. Brubaker, Gillian R. Hayes
+	Pages: 123-132
+	doi>10.1145/1958824.1958843
+	Full text: PDFPDF
+	
+
+The proliferation of social network sites has resulted in an increasing number of profiles representing deceased users. In this paper, we present the results of a mixed-methods empirical study of 205,068 comments posted to 1,369 MySpace profiles of users ...
+expand
+	Towards quality discourse in online news comments
+	Nicholas Diakopoulos, Mor Naaman
+	Pages: 133-142
+	doi>10.1145/1958824.1958844
+	Full text: PDFPDF
+	
+
+With the growth in sociality and interaction around online news media, news sites are increasingly becoming places for communities to discuss and address common issues spurred by news articles. The quality of online news comments is of importance to ...
+expand
+	SESSION: Showcase II
+	Gloria Mark
+	
+	Empirical software engineering at Microsoft Research
+	Christian Bird, Brendan Murphy, Nachiappan Nagappan, Thomas Zimmermann
+	Pages: 143-150
+	doi>10.1145/1958824.1958846
+	Full text: PDFPDF
+	
+
+We describe the activities of the Empirical Software Engi-neering (ESE) group at Microsoft Research. We highlight our research themes and activities using examples from our research on socio technical congruence, bug reporting and triaging, and data-driven ...
+expand
+	Ubiquitous awareness and intelligent solutions lab: Lanzhou University
+	Bin Hu, Fang Zheng, Li Liu
+	Pages: 151-158
+	doi>10.1145/1958824.1958847
+	Full text: PDFPDF
+	
+	Smarter social collaboration at IBM research
+	Changyan Chi, Qinying Liao, Yingxin Pan, Shiwan Zhao, Tara Matthews, Thomas Moran, Michelle X. Zhou, David Millen, Ching-Yung Lin, Ido Guy
+	Pages: 159-166
+	doi>10.1145/1958824.1958848
+	Full text: PDFPDF
+	
+
+In this paper we feature a set of research projects done at several IBM Research laboratories across the world. The work featured here focuses on the topic of smart social collaboration, which studies, designs, and develops social collaboration principles ...
+expand
+	SESSION: Real-time groupware
+	Jakob Bardram
+	
+	Real-time groupware in the browser: testing the performance of web-based networking
+	Carl A. Gutwin, Michael Lippold, T. C. Nicholas Graham
+	Pages: 167-176
+	doi>10.1145/1958824.1958850
+	Full text: PDFPDF
+	
+
+Standard web browsers are becoming a common platform for delivering groupware applications, but until recently, the only way to support real-time collaboration was with browser plug-ins. New networking approaches have recently been introduced - based ...
+expand
+	It's about time: confronting latency in the development of groupware systems
+	Cheryl Savery, T.C. Nicholas Graham
+	Pages: 177-186
+	doi>10.1145/1958824.1958851
+	Full text: PDFPDF
+	
+
+The presence of network latency leads to usability problems in distributed groupware applications. Example problems include difficulty synchronizing tightly-coupled collaboration, jarring changes in the user interface following the repair of conflicting ...
+expand
+	Back to the future: a hybrid approach to transparent sharing of video games over the internet in real time
+	Sili Zhao, Du Li, Tun Lu, Ning Gu
+	Pages: 187-196
+	doi>10.1145/1958824.1958852
+	Full text: PDFPDF
+	
+
+This paper presents a collaboration transparency system that allows for distributed sharing of legacy collocated video games in real time without modifying the original games. Our system has attracted two million registered players since it was launched ...
+expand
+	SESSION: Personalities & profiles
+	Vanessa Evers
+	
+	Sociable killers: understanding social relationships in an online first-person shooter game
+	Yan Xu, Xiang Cao, Abigail Sellen, Ralf Herbrich, Thore Graepel
+	Pages: 197-206
+	doi>10.1145/1958824.1958854
+	Full text: PDFPDF
+	
+
+Online video games can be seen as medium for the formation and maintenance of social relationships. In this paper, we explore what social relationships mean under the context of online First-Person Shooter (FPS) games, how these relationships influence ...
+expand
+	"I'll press play, but I won't listen": profile work in a music-focused social network service
+	Suvi Silfverberg, Lassi A. Liikkanen, Airi Lampinen
+	Pages: 207-216
+	doi>10.1145/1958824.1958855
+	Full text: PDFPDF
+	
+
+We offer the concept of profile work to illustrate the effort people invest in their public profiles in social network services (SNSs). In our explorative study, we investigated profile work in Last.fm, an SNS that automatically publishes music listening ...
+expand
+	Blog tells what kind of personality you have: egogram estimation from Japanese weblog
+	Atsunori Minamikawa, Hiroyuki Yokoyama
+	Pages: 217-220
+	doi>10.1145/1958824.1958856
+	Full text: PDFPDF
+	
+
+In this paper, we investigate personality estimation from Japanese weblog text. Among various personality types, we focus on Egogram, which has been used in Transactional Analysis and is strongly related to the communicative behavior of individuals. ...
+expand
+	Contact stratification and deception: blackberry messenger versus SMS use among students
+	Lindsay Reynolds, Samantha Gillette, Jason Marder, Zachary Miles, Pavel Vodenski, Ariella Weintraub, Jeremy Birnholtz, Jeff Hancock
+	Pages: 221-224
+	doi>10.1145/1958824.1958857
+	Full text: PDFPDF
+	
+
+The proliferation of communication technology has led to potential stratification of contacts across different media, which has important implications for interpersonal dynamics, such as deception. The present study examines how two text-based communication ...
+expand
+	SESSION: Distributed teams
+	David Millen
+	
+	From ethnographic study to mixed reality: a remote collaborative troubleshooting system
+	Jacki O'Neill, Stefania Castellani, Frederic Roulland, Nicolas Hairon, Cornell Juliano, Liwei Dai
+	Pages: 225-234
+	doi>10.1145/1958824.1958859
+	Full text: PDFPDF
+	
+
+In this paper we describe how we moved from ethnographic study to design and testing of a Mixed Reality (MR) system, supporting collaborative troubleshooting of office copiers and printers. A key CSCW topic is how remotely situated people can collaborate ...
+expand
+	Your time zone or mine?: a study of globally time zone-shifted collaboration
+	John C. Tang, Chen Zhao, Xiang Cao, Kori Inkpen
+	Pages: 235-244
+	doi>10.1145/1958824.1958860
+	Full text: PDFPDF
+	
+
+We conducted interviews with sixteen members of teams that worked across global time zone differences. Despite time zone differences of about eight hours, collaborators still found time to synchronously meet. The interviews identified the diverse strategies ...
+expand
+	Collaborative rhythm: temporal dissonance and alignment in collaborative scientific work
+	Steven J. Jackson, David Ribes, Ayse Buyuktur, Geoffrey C. Bowker
+	Pages: 245-254
+	doi>10.1145/1958824.1958861
+	Full text: PDFPDF
+	
+
+CSCW studies of large-scale distributed practice in the sciences and elsewhere have taught us important things about space and place as props and barriers to distributed collective action, but they have had relatively less to say about time. This paper ...
+expand
+	SESSION: Creating context for collaboration
+	Bonnie Nardi
+	
+	Creating a context of trust with ICTs: restoring a sense of normalcy in the environment
+	Bryan Semaan, Gloria Mark
+	Pages: 255-264
+	doi>10.1145/1958824.1958863
+	Full text: PDFPDF
+	
+
+This paper reports on an ethnographic study of the technology-enabled behavior that took place amongst a citizen population living in a conflict zone. We interviewed 65 Iraqi citizens who experienced the current Gulf War beginning in March 2003. In the ...
+expand
+	From diversity to creativity: stimulating group brainstorming with cultural differences and conversationally-retrieved pictures
+	Hao-Chuan Wang, Susan R. Fussell, Dan Cosley
+	Pages: 265-274
+	doi>10.1145/1958824.1958864
+	Full text: PDFPDF
+	
+
+Group brainstorming, or collaboratively generating ideas through idea sharing, demands diverse contributions to spark more ideas and improve creativity. One approach to supporting group brainstorming is to introduce conceptual diversity. In this study, ...
+expand
+	Designing incentives for inexpert human raters
+	Aaron D. Shaw, John J. Horton, Daniel L. Chen
+	Pages: 275-284
+	doi>10.1145/1958824.1958865
+	Full text: PDFPDF
+	
+
+The emergence of online labor markets makes it far easier to use individual human raters to evaluate materials for data collection and analysis in the social sciences. In this paper, we report the results of an experiment - conducted in an online labor ...
+expand
+	SESSION: Enterprise
+	Volker Wulf
+	
+	Do you want to know?: recommending strangers in the enterprise
+	Ido Guy, Sigalit Ur, Inbal Ronen, Adam Perer, Michal Jacovi
+	Pages: 285-294
+	doi>10.1145/1958824.1958867
+	Full text: PDFPDF
+	
+
+Recent studies on people recommendation have focused on suggesting people the user already knows. In this work, we use social media behavioral data to recommend people the user is not likely to know, but nonetheless may be interested in. Our evaluation ...
+expand
+	Browse and discover: social file sharing in the enterprise
+	N. Sadat Shami, Michael Muller, David Millen
+	Pages: 295-304
+	doi>10.1145/1958824.1958868
+	Full text: PDFPDF
+	
+
+There is a growth in the popularity of social file sharing systems. This paper describes the design of Cattail, a social file sharing system for the enterprise. Through a 'Recent Events' stream, Cattail supports social navigation and exploratory search ...
+expand
+	Look ma, no email!: blogs and IRC as primary and preferred communication tools in a distributed firm
+	Aditya Johri
+	Pages: 305-308
+	doi>10.1145/1958824.1958869
+	Full text: PDFPDF
+	
+
+Email has been the primary communication medium in organizations for decades and despite studies that demonstrate its obvious disadvantages, the prevailing thinking is that email is irreplaceable. In this paper I challenge that view through a field study ...
+expand
+	Working around official applications: experiences from a large engineering project
+	Mark J. Handel, Steven Poltrock
+	Pages: 309-312
+	doi>10.1145/1958824.1958870
+	Full text: PDFPDF
+	
+
+We describe facets of specialized software applications developed to support a large collaborative engineering program. Although many of the applications were bespoke efforts, designed to the requirements of users, virtually all major applications have ...
+expand
+	Organizational acculturation and social networking
+	Jennifer Thom-Santelli, David R. Millen, Darren Gergle
+	Pages: 313-316
+	doi>10.1145/1958824.1958871
+	Full text: PDFPDF
+	
+
+For large global enterprises, providing adequate resources for organizational acculturation, the process in which employees learn about an organization's culture, remains a challenge. We present results from a survey of 802 users from an enterprise social ...
+expand
+	Photo sharing in diverse distributed teams
+	Jennifer Marlow, Laura Dabbish
+	Pages: 317-320
+	doi>10.1145/1958824.1958872
+	Full text: PDFPDF
+	
+
+In this research we examined the impact of photo sharing on attitudes and behaviors towards local versus distant team members. In an online experiment, we varied content and presentation of photos shared by a hypothetical team spanning two locations. ...
+expand
+	SESSION: Social computing
+	Amy Voida
+	
+	Increasing commitment to online communities by designing for social presence
+	Rosta Farzan, Laura A. Dabbish, Robert E. Kraut, Tom Postmes
+	Pages: 321-330
+	doi>10.1145/1958824.1958874
+	Full text: PDFPDF
+	
+
+The existence and survival of online communities depends upon the commitment and retention of their members. This paper compares alternative ways of designing online sites to increase member commitment. We report the results of two experiments conducted ...
+expand
+	Thanks and tweets: comparing two public displays
+	Sean A. Munson, Emily Rosengren, Paul Resnick
+	Pages: 331-340
+	doi>10.1145/1958824.1958875
+	Full text: PDFPDF
+	
+
+Two public display systems, with different methods of posting, were deployed over several years. One, the Thank You Board, was designed to give people an outlet specifically for publicly thanking and acknowledging others in the community. The other, ...
+expand
+	It's not that i don't have problems, i'm just not putting them on facebook: challenges and opportunities in using online social networks for health
+	Mark W. Newman, Debra Lauterbach, Sean A. Munson, Paul Resnick, Margaret E. Morris
+	Pages: 341-350
+	doi>10.1145/1958824.1958876
+	Full text: PDFPDF
+	
+
+To understand why and how people share health information online, we interviewed fourteen people with significant health concerns who participate in both online health communities and Facebook. Qualitative analysis of these interviews highlighted the ...
+expand
+	Forget online communities?: revisit cooperative work!
+	Yong Ming Kow, Bonnie Nardi
+	Pages: 351-354
+	doi>10.1145/1958824.1958877
+	Full text: PDFPDF
+	
+
+The term community does not have an exact equivalent in Chinese. Therefore, we may ask: To what extent do standard premises of online community research apply in China? In our ethnographic studies of two Chinese websites, we found that small "core teams" ...
+expand
+	Peaks and persistence: modeling the shape of microblog conversations
+	David A. Shamma, Lyndon Kennedy, Elizabeth F. Churchill
+	Pages: 355-358
+	doi>10.1145/1958824.1958878
+	Full text: PDFPDF
+	
+
+A microblogged stream is delivered over time, providing an ongoing commentary of topics, trends, and issues. In this article, we present two methods of finding temporal topics within these Twitter streams. Using a normalized term frequency, we demonstrate ...
+expand
+	SESSION: Identity and self-disclosure
+	Sara Kiesler
+	
+	Faceted identity, faceted lives: social and technical issues with being yourself online
+	Shelly D. Farnham, Elizabeth F. Churchill
+	Pages: 359-368
+	doi>10.1145/1958824.1958880
+	Full text: PDFPDF
+	
+
+This paper explores key issues people experience managing personal boundaries within and across social technologies. We look in particular at email and online social networks. We offer a theoretical framework for understanding the errors in assumptions ...
+expand
+	SELECT * FROM USER: infrastructure and socio-technical representation
+	Jed R. Brubaker, Gillian R. Hayes
+	Pages: 369-378
+	doi>10.1145/1958824.1958881
+	Full text: PDFPDF
+	
+
+As use of, and experiences with, social media continue to grow, the systems of representation that underlie their use become increasingly influential. In this paper, we present results from empirical studies of two online communities-Facebook and craigslist ...
+expand
+	Network properties and social sharing of emotions in social awareness streams
+	Funda Kivran-Swaine, Mor Naaman
+	Pages: 379-382
+	doi>10.1145/1958824.1958882
+	Full text: PDFPDF
+	
+
+The relationship between social sharing of emotions, social networks and social ties is an ongoing topic of research. Such sharing of emotions occurs frequently in "social awareness streams" platforms like Twitter and Facebook. We use Twitter to address ...
+expand
+	Me and my avatar: exploring users' comfort with avatars for workplace communication
+	Kori M. Inkpen, Mara Sedlins
+	Pages: 383-386
+	doi>10.1145/1958824.1958883
+	Full text: PDFPDF
+	
+
+This paper describes results from a large-scale survey to explore users' comfort with different styles of avatars for workplace communication. Thirty-one avatars were evaluated based on users' ratings along several dimensions and grouped into five different ...
+expand
+	A tale of two languages: strategic self-disclosure via language selection on facebook
+	Dai Tang, Tina Chou, Naomi Drucker, Adi Robertson, William C. Smith, Jeffery T. Hancock
+	Pages: 387-390
+	doi>10.1145/1958824.1958884
+	Full text: PDFPDF
+	
+
+In this paper, we analyze the way in which international Facebook users who had recently moved to the United States used different languages to selectively self-disclose to their old (native-language) and new (English-speaking) social circles. We found ...
+expand
+	With a little help from my friends: can social navigation inform interpersonal privacy preferences?
+	Sameer Patil, Xinru Page, Alfred Kobsa
+	Pages: 391-394
+	doi>10.1145/1958824.1958885
+	Full text: PDFPDF
+	
+
+Recent privacy controversies surrounding social networking sites demonstrate that the mere availability of settings is not enough for effective privacy management. We investigated whether the aggregated privacy choices of one's social circle might guide ...
+expand
+	SESSION: Interferring patterns from usage date in programming and search
+	Patrick Wagstrom
+	
+	"Not my bug!" and other reasons for software bug report reassignments
+	Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy
+	Pages: 395-404
+	doi>10.1145/1958824.1958887
+	Full text: PDFPDF
+	
+
+Bug reporting/fixing is an important social part of the soft-ware development process. The bug-fixing process inher-ently has strong inter-personal dynamics at play, especially in how to find the optimal person to handle a bug report. Bug report reassignments, ...
+expand
+	Peer interaction effectively, yet infrequently, enables programmers to discover new tools
+	Emerson Murphy-Hill, Gail C. Murphy
+	Pages: 405-414
+	doi>10.1145/1958824.1958888
+	Full text: PDFPDF
+	
+
+Computer users rely on software tools to work effectively and efficiently, but it is difficult for users to be aware of all the tools that might be useful to them. While there are several potential technical solutions to this difficulty, we know little ...
+expand
+	Three sequential positions of query repair in interactions with internet search engines
+	Robert J. Moore, Elizabeth F. Churchill, Raj Gopal Prasad Kantamneni
+	Pages: 415-424
+	doi>10.1145/1958824.1958889
+	Full text: PDFPDF
+	
+
+Internet search engines display understanding or misunderstanding of user intent in and through the particular batches of results they retrieve and their perceived relevance. Yet understanding is not simply an automatic outcome but a joint interactional ...
+expand
+	SESSION: Shared workspace
+	John Tang
+	
+	Supporting air traffic control collaboration with a TableTop system
+	Stéphane Conversy, Hélène Gaspard-Boulinc, Stéphane Chatty, Stéphane Valès, Carole Dupré, Claire Ollagnon
+	Pages: 425-434
+	doi>10.1145/1958824.1958891
+	Full text: PDFPDF
+	
+
+Collaboration is key to safety and efficiency in Air Traffic Control. Legacy paper-based systems enable seamless and non-verbal collaboration, but trends in new software and hardware for ATC tend to separate controllers more and more, which hinders collaboration. ...
+expand
+	See what i'm saying?: using Dyadic Mobile Eye tracking to study collaborative reference
+	Darren Gergle, Alan T. Clark
+	Pages: 435-444
+	doi>10.1145/1958824.1958892
+	Full text: PDFPDF
+	
+
+To create intelligent collaborative systems able to anticipate and react appropriately to users' needs and actions, it is crucial to develop a detailed understanding of the process of collaborative reference. We developed a dyadic eye tracking methodology ...
+expand
+	Using F-formations to analyse spatial patterns of interaction in physical environments
+	Paul Marshall, Yvonne Rogers, Nadia Pantidi
+	Pages: 445-454
+	doi>10.1145/1958824.1958893
+	Full text: PDFPDF
+	
+
+There are few conceptual tools available to analyse physical spaces in terms of their support for social interactions and their potential for technological augmentation. In this paper, we describe how we used Adam Kendon's characterisation of the F-formation ...
+expand
+	SESSION: Health care
+	Per Bjorn
+	
+	Activity analysis: applying activity theory to analyze complex work in hospitals
+	Jakob Bardram, Afsaneh Doryab
+	Pages: 455-464
+	doi>10.1145/1958824.1958895
+	Full text: PDFPDF
+	
+
+This paper presents "Activity Analysis" as a method for conducting and analyzing field studies based on Activity Theory. Two cases of activity analysis of work in a hospital ward and inside an operating room are presented. Guidelines for moving from ...
+expand
+	Coordinating time-critical work with role-tagging
+	Aleksandra Sarcevic, Leysia A. Palen, Randall S. Burd
+	Pages: 465-474
+	doi>10.1145/1958824.1958896
+	Full text: PDFPDF
+	
+
+A Level-1 US trauma center introduced role-tags in their trauma resuscitation rooms to help team members identify respective medical functions, and to limit the number of people in the rooms to required staff only. We use this in situ experiment with ...
+expand
+	Improving communication and social support for caregivers of high-risk infants through mobile technologies
+	Leslie S. Liu, Sen H. Hirano, Monica Tentori, Karen G. Cheng, Sheba George, Sun Young Park, Gillian R. Hayes
+	Pages: 475-484
+	doi>10.1145/1958824.1958897
+	Full text: PDFPDF
+	
+
+Upon leaving the hospital, parents of high-risk infants experience a variety of challenges in providing care at home. In this work, we present results from a qualitative study to understand the role of social interaction and information-sharing surrounding ...
+expand
+	Health information use in chronic care cycles
+	Yunan Chen
+	Pages: 485-488
+	doi>10.1145/1958824.1958898
+	Full text: PDFPDF
+	
+
+A qualitative field study was conducted to explore the use of health information in the chronic care process. The findings show that health information is organized and used based on what we called chronic care cycles - the repeated rotations of a routine ...
+expand
+	SESSION: Showcase III
+	Michelle Zhou
+	
+	The global interaction research initiative at the IT university of Copenhagen, Denmark
+	Jakob E. Bardam, Pernille Bjørn, Arne John Glenstrup, Thomas Pederson
+	Pages: 489-496
+	doi>10.1145/1958824.1958900
+	Full text: PDFPDF
+	
+
+This showcase paper describes the Global Interaction Research Initiative - GIRI - recently inaugurated at the IT University of Copenhagen. It presents the motivation for this initiative, namely that the use of information technology is the core enabling ...
+expand
+	The multidisciplinary design group in Vienna
+	Ina Wagner, Hilda Tellioglu
+	Pages: 497-504
+	doi>10.1145/1958824.1958901
+	Full text: PDFPDF
+	
+
+This showcase paper describes the research of the Multidisciplinary Design Group, Vienna University of Technology, over the course of more than 20 years. It discusses this research and the contributions to CSCW resulting from it, under four headings: ...
+expand
+	Engaging with practices: design case studies as a research framework in CSCW
+	Volker Wulf, Markus Rohde, Volkmar Pipek, Gunnar Stevens
+	Pages: 505-512
+	doi>10.1145/1958824.1958902
+	Full text: PDFPDF
+	
+
+Information and communications technology (ICT) pervades most aspects of our lives and changes everyday's practices in work and leisure time. When designing innovative ICTs, we need to engage with given practices, institutional arrangements, and technological ...
+expand
+	SESSION: E-science
+	Louise Barkuus
+	
+	Scientific software production: incentives and collaboration
+	James Howison, James D. Herbsleb
+	Pages: 513-522
+	doi>10.1145/1958824.1958904
+	Full text: PDFPDF
+	
+
+Software plays an increasingly critical role in science, including data analysis, simulations, and managing workflows. Unlike other technologies supporting science, software can be copied and distributed at essentially no cost, potentially opening the ...
+expand
+	Research team integration: what it is and why it matters
+	Aruna D. Balakrishnan, Sara Kiesler, Jonathon N. Cummings, Reza Zadeh
+	Pages: 523-532
+	doi>10.1145/1958824.1958905
+	Full text: PDFPDF
+	
+
+Science policy across the world emphasizes the desirability of research teams that can integrate diverse perspectives and expertise into new knowledge, methods, and products. However, integration in research work is not well understood. Based on retrospective ...
+expand
+	The value of data: considering the context of production in data economies
+	Janet Vertesi, Paul Dourish
+	Pages: 533-542
+	doi>10.1145/1958824.1958906
+	Full text: PDFPDF
+	
+
+In this paper we argue that how scientific collaborations share data is bound up in the ways in which they produce and acquire that data. We draw on ethnographic work with two robotic space exploration teams to show how each community's norms of "data-sharing" ...
+expand
+	SESSION: Under the hood
+	Steve Voida
+	
+	Scheduling in variable-core collaborative systems
+	Sasa Junuzovic, Prasun Dewan
+	Pages: 543-552
+	doi>10.1145/1958824.1958908
+	Full text: PDFPDF
+	
+
+The performance of a collaborative system depends on how two mandatory collaborative tasks, processing and transmission of user commands, are scheduled. We have developed multiple policies for scheduling these tasks on computers that have (a) one processing ...
+expand
+	ReConMUC: adaptable consistency requirements for efficient large-scale multi-user chat
+	Pedro Alves, Paulo Ferreira
+	Pages: 553-562
+	doi>10.1145/1958824.1958909
+	Full text: PDFPDF
+	
+
+Multi-user chat (MUC) applications raise serious challenges to developers concerning scalability and efficient use of network bandwidth, due to a large number of users exchanging lots of messages in real-time. We propose a new approach to MUC message ...
+expand
+	An operational transformation based synchronization protocol for web 2.0 applications
+	Bin Shao, Du Li, Tun Lu, Ning Gu
+	Pages: 563-572
+	doi>10.1145/1958824.1958910
+	Full text: PDFPDF
+	
+
+Current Web 2.0 services are making mass collaboration a reality. Using a Web browser, people can participate in cooperative work anytime, anywhere from any computing device as long as there is an Internet connection. Lying in the heart of some well-known ...
+expand
+	SESSION: Video abstracts
+	
+	Privacy and sharing information on spherical and large flat displays
+	John Bolton, Kibum Kim, Roel Vertegaal
+	Pages: 573-574
+	doi>10.1145/1958824.1958912
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+It is important for users to understand the fundamental tradeoff between sharing information and preserving privacy in collaboration. The more information is shared about one's actions, the less privacy is preserved. Sharing information may, in fact, ...
+expand
+	SISO: simple service orchestration (video showcase)
+	Christian Doerner, Torben Wiedenhoefer, Mary-Ann Sprenger, Volkmar Pipek
+	Pages: 575-576
+	doi>10.1145/1958824.1958913
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+This video showcase presents our new business process modeling environment, called SiSO, that enables end users to model and adapt business processes. SiSO enhances Service Oriented Architectures through non-technical data, such as usage descriptions ...
+expand
+	Communico: overhearing conversations in a virtual office
+	Kevin Dullemond, Ben van Gameren
+	Pages: 577-578
+	doi>10.1145/1958824.1958914
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+This extended abstract accompanies our submission to the video track of the conference. We briefly introduce Communico, a tool which enables the overhearing of conversations in a distributed setting and describe how it fits the CSCW literature and audience.
+expand
+	Intercultural collaboration with the language grid toolbox
+	Ari Hautasaari, Nadia Bouz-Asal, Rieko Inaba, Toru Ishida
+	Pages: 579-580
+	doi>10.1145/1958824.1958915
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+In this demonstration video, we introduce the Language Grid Toolbox, an open source multilingual communication tool, and two community sites based on the Language Grid Toolbox. The G30 Community Site aims to create a multilingual and multicultural community ...
+expand
+	Cambiera: collaborative tabletop visual analytics
+	Petra Isenberg, Danyel Fisher
+	Pages: 581-582
+	doi>10.1145/1958824.1958916
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+Cambiera is a tabletop system designed for co-located collaborative visual analytics. As a tabletop system, Cambiera encourages analysts to face each other around the tabletop to analyze large text document collections collaboratively. Cambiera allows ...
+expand
+	The video of Xland: two core use cases of 3D blog
+	Yufei Jiang, Ruizhi Gao, Yuan Huang
+	Pages: 583-584
+	doi>10.1145/1958824.1958917
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+In this paper we describe the basic profile of our project Xland: a 3D blog community and the content of our video. Besides, we would also make some annotation in this paper to compensate some information that is not presented by the video.
+expand
+	SPARSH: touch the cloud
+	Pranav Mistry, Suranga Nanayakkara, Pattie Maes
+	Pages: 585-586
+	doi>10.1145/1958824.1958918
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+SPARSH presents a seamless way of passing data among multiple users and devices. The user touches a data item they wish to copy from a device, conceptually saving it in the user's body. Next, the user touches the other device they want to paste/pass ...
+expand
+	A real-time tweet diffusion advisor for #Twitter
+	Peyman Nasirifard, Conor Hayes
+	Pages: 587-588
+	doi>10.1145/1958824.1958919
+	Full text: PDFPDF
+	Other formats: Mp4Mp4
+	
+
+In this paper we describe our novel Twitter assistant called Tadvise. Tadvise helps users to know their Twitter communities better and also assists them to identify community hubs for propagating their community-related tweets. Tadvise video describes ...
+expand
+	DIADEM: a system for collaborative environmental monitoring
+	Andi Winterboer, Merijn A. Martens, Gregor Pavlin, Frans C.A. Groen, Vanessa Evers
+	Pages: 589-590
+	doi>10.1145/1958824.1958920
+	Full text: PDFPDF
+	Other formats: MovMov
+	
+
+Environmental monitoring and emergency response projects in urban-industrial areas increasingly rely on efficient collaboration between experts in control rooms and at incident locations, and citizens who live or work in the area. In the video accompanying ...
+expand
+	SESSION: Interactive presentations
+	Hideaki Kuzuoka, P.L. Patrick Lau
+	Full text: PDFPDF
+	
+	MagicMirror: towards enhancing collaborative rehabilitation practices
+	Naveen Bagalkot, Tomas Sokoler
+	Pages: 593-596
+	doi>10.1145/1958824.1958922
+	Full text: PDFPDF
+	
+
+In this paper we highlight our realization of the entangled role played by the aspects of self-monitoring and collaborative articulation in facilitating a successful rehabilitation process. We describe the process of sketching-driven-co-exploration with ...
+expand
+	Bidirectional gaze in remote computer mediated collaboration: setup and initial results from pair-programming
+	Roman Bednarik, Andrey Shipilov, Sami Pietinen
+	Pages: 597-600
+	doi>10.1145/1958824.1958923
+	Full text: PDFPDF
+	
+
+We investigate the role of gaze in communication and collaboration between humans in computerised environments. In this paper we describe a software solution to a multidirectional gaze display in shared-display collaborative tasks and we report on initial ...
+expand
+	Towards support for collaborative navigation in complex indoor environments
+	Anders Bouwer, Frank Nack, Vanessa Evers
+	Pages: 601-604
+	doi>10.1145/1958824.1958924
+	Full text: PDFPDF
+	
+
+In this paper we present first results of an observation study on indoor navigation behaviour of visitors at a large public fair. As an outcome we present a number of requirements for mobile indoor navigation systems that support collaborative destination ...
+expand
+	Analyzing patterns in composing teaching materials from the web
+	Nadia Bouz-Asal, Rieko Inaba, Toru Ishida
+	Pages: 605-608
+	doi>10.1145/1958824.1958925
+	Full text: PDFPDF
+	
+
+We present the research and work carried out towards analyzing patterns in creating teaching materials from the Web and how this leads to the model of the multilingual learning resource system using Web service technologies for today's educators, to ...
+expand
+	Web-based multipointer interaction on shared displays
+	Muriel Bowie, Oliver Schmid, Agnes Lisowska Masson, Béat Hirsbrunner
+	Pages: 609-612
+	doi>10.1145/1958824.1958926
+	Full text: PDFPDF
+	
+
+Interaction with multiple mouse pointers is becoming widespread for collocated collaboration on shared displays, but most technologies used to implement it do not support telepresent users. While web technologies are a common standard for applications ...
+expand
+	Designing for context-aware health self-monitoring, feedback, and engagement
+	Frank Chen, Eric Hekler, Jinhui Hu, Shen Li, Candy Zhao
+	Pages: 613-616
+	doi>10.1145/1958824.1958927
+	Full text: PDFPDF
+	
+
+There is a novel opportunity to increase awareness of health activities in a person's daily life. One way to do that is through context-aware self-monitoring. We explore design insights from field work and field testing different methods for self-monitoring. ...
+expand
+	Working with 'mission control' in scientific fieldwork: supporting interactions between in situ and distanced collaborators
+	Tim Coughlan, Anne Adams, Trevor Collins, Sarah Davies, John Lea, Yvonne Rogers
+	Pages: 617-620
+	doi>10.1145/1958824.1958928
+	Full text: PDFPDF
+	
+
+Interaction between in situ and distanced collaborators focused on the physical environment is an under-explored research area, where there is potential for novel mobile and indoor technologies to enhance activities. This paper describes research in ...
+expand
+	Kinected conference: augmenting video imaging with calibrated depth and audio
+	Anthony DeVincenzi, Lining Yao, Hiroshi Ishii, Ramesh Raskar
+	Pages: 621-624
+	doi>10.1145/1958824.1958929
+	Full text: PDFPDF
+	
+
+The proliferation of broadband and high-speed Internet access has, in general, democratized the ability to commonly engage in videoconference. However, current video systems do not meet their full potential, as they are restricted to a simple display ...
+expand
+	Surprise Grabber: a co-located tangible social game using phone hand gesture
+	Mingming Fan, Xin Li, Yu Zhong, Li Tian, Yuanchun Shi, Hao Wang
+	Pages: 625-628
+	doi>10.1145/1958824.1958930
+	Full text: PDFPDF
+	
+
+Social network games (SNGs) are among the most popular games recently. Different from the asynchronous and online based SNGs, we present Surprise Grabber to see how tangible gesture interface could benefit the synchronous co-located social game. ...
+expand
+	PRIMIExperience: experience sampling via instant messaging
+	Mirko Fetter, Tom Gross
+	Pages: 629-632
+	doi>10.1145/1958824.1958931
+	Full text: PDFPDF
+	
+
+In this paper we present the PRIMIExperience system, proposing the use of instant messaging as a mean for carrying out cost-effective Experience Sampling studies with a minimised setup effort.
+expand
+	Clinical journal: a collaborative shared medical workspace
+	Kristina Groth, Oscar Frykholm, Alexander Yngling
+	Pages: 633-636
+	doi>10.1145/1958824.1958932
+	Full text: PDFPDF
+	
+
+We describe our findings from a cooperative design effort of a shared medical workspace used in multi-disciplinary team meetings, as well as during other activities in a patient care pathway for highly specialised care. In collaboration with surgeons, ...
+expand
+	Using multiple scores for transcribing the distributed activities of a family
+	Julien Guibourdenche, Jacqueline Vacherand-Revel, Michèle Grosjean, Myriam Fréjus, Yvon Haradji
+	Pages: 637-640
+	doi>10.1145/1958824.1958933
+	Full text: PDFPDF
+	
+
+Describing distributed activities in multiple spaces of a home with multiple inhabitants is a methodological challenge which is important for the design of services. Recent works have recorded synchronized multi-video data of space-distributed activities. ...
+expand
+	Social Infobox: collaborative knowledge construction by social property tagging
+	Masahiro Hamasaki, Masataka Goto, Hideaki Takeda
+	Pages: 641-644
+	doi>10.1145/1958824.1958934
+	Full text: PDFPDF
+	
+
+We propose a novel style of social tagging to construct knowledge collaboratively called Social Property Tagging and introduce the prototype system Social Infobox. Structured data is useful for computer system, however defining structure of knowledge ...
+expand
+	i-sensor inference model for assessing trustworthiness in computer-mediated communications
+	Shuyuan Mary Ho, Xiangmin Zhang
+	Pages: 645-648
+	doi>10.1145/1958824.1958935
+	Full text: PDFPDF
+	
+
+This paper presents a modeling strategy for an intelligence sensor system, or i-Sensor, which can comprehend human's virtual dialogues in Computer Mediated Communications (CMC) and process those dialogues to understand trustworthiness detected among ...
+expand
+	Environmental jolts: impact of exogenous factors on online community participation
+	Aditya Johri, Oded Nov, Raktim Mitra
+	Pages: 649-652
+	doi>10.1145/1958824.1958936
+	Full text: PDFPDF
+	
+
+Few studies of online communities take exogenous factors into account while explaining community participation. We present preliminary results from a study investigating the impact of steward companies' actions on online community participation. We identified ...
+expand
+	Your and my little sprout
+	Joy Wei Jung, Kai Wang
+	Pages: 653-656
+	doi>10.1145/1958824.1958937
+	Full text: PDFPDF
+	
+
+While the significance of teamwork is becoming increasing important in many settings, many teams in schools have problems working together. The "Your and My Little Sprout" design aims to address factors affecting the success of team collaborations, ...
+expand
+	Defining ontology by using users collaboration on social media
+	Saman Kamran, Fabio Crestani
+	Pages: 657-660
+	doi>10.1145/1958824.1958938
+	Full text: PDFPDF
+	
+
+This novel method is proposed for building a reliable ontology around specific concepts, by using the immense potential of active volunteering collaboration of detected knowledgeable users on social media.
+expand
+	A menu-planning support system to facilitate communication among neighbors
+	Hideaki Kanai, Kei Kitahara
+	Pages: 661-664
+	doi>10.1145/1958824.1958939
+	Full text: PDFPDF
+	
+
+The emergence of social networking services on the Internet has facilitated communication between people located far away from each other. Through a variety of Web services, people can get together on a virtual platform to video chat, edit documents, ...
+expand
+	The Tree of Knowledge: a localized collective intelligence tool
+	Gyu Hyun Kwon, Yoon Suk Lee, Mithilesh Kumar
+	Pages: 665-668
+	doi>10.1145/1958824.1958940
+	Full text: PDFPDF
+	
+
+In this work, we implemented a localized collective intelligence tool called the Tree of Knowledge that represents the on-going knowledge activities in a building. The Tree of Knowledge can increase the awareness of who knows what in the building and ...
+expand
+	Supporting generation Y interactions: challenges for office work
+	Wei Liu, Pieter Jan Stappers, Gert Pasman, Jenneke Taal-Fokker
+	Pages: 669-672
+	doi>10.1145/1958824.1958941
+	Full text: PDFPDF
+	
+
+With Generation Y entering the workforce, for the first time IT supported tools at home are more advanced than these tools at work. This project aims to understand and model this friction and its challenges through a sequence of literature review and ...
+expand
+	Evaluating a smart working environment with a digital card game prototype
+	Oleksandr Lobunets, Wolfgang Prinz
+	Pages: 673-676
+	doi>10.1145/1958824.1958942
+	Full text: PDFPDF
+	
+
+This paper presents a digital card game that utilizes different multi-touch interaction devices to experience and evaluate cooperative user interactions. Goal of this approach is the exploration of a smart cooperation environment of interconnected devices. ...
+expand
+	Towards requirements engineering for a tumour removing robot: work-practice observation of surgical teams performing brain tumour surgery
+	Anthony Masih
+	Pages: 677-680
+	doi>10.1145/1958824.1958943
+	Full text: PDFPDF
+	
+
+In brain tumour surgery factors critical to success include the accuracy, expedition and consistency with which the task is performed; surgical robots have been developed to better meet these success factors. In this paper we describe preliminary results ...
+expand
+	Eliciting risk perceptions with an online game: preliminary results
+	William L. McGill, Yan Cao, Miao Jiang, Jorge J. Calle, Stephen Broomell, Gale Lauser
+	Pages: 681-684
+	doi>10.1145/1958824.1958944
+	Full text: PDFPDF
+	
+
+We describe a scientific casual browser game called LinkIT for eliciting societal risk perceptions in the form of mental models represented as influence diagrams. Given this knowledge, we can highlight similarities and differences across demographic ...
+expand
+	Are artificial team-mates scapegoats in computer games
+	Tim R. Merritt, Kian Boon Tan, Christopher Ong, Aswin Thomas, Teong Leong Chuah, Kevin McGee
+	Pages: 685-688
+	doi>10.1145/1958824.1958945
+	Full text: PDFPDF
+	
+
+In cooperative games that involve team-mates that are controlled by either a computer or another human player, is there a difference in how humans assign credit or blame? There has been some related work on computers as team-mates and credit/blame assignment, ...
+expand
+	SPARSH: passing data using the body as a medium
+	Pranav Mistry, Suranga Nanayakkara, Pattie Maes
+	Pages: 689-692
+	doi>10.1145/1958824.1958946
+	Full text: PDFPDF
+	
+
+SPARSH explores a novel interaction method to seamlessly transfer data among multiple users and devices in a fun and intuitive way. The user touches a data item they wish to copy from a device, conceptually saving in the user's body. Next, the user touches ...
+expand
+	Automatic adjustment of a virtual teacher's model in a learning support system
+	Mamoun Nawahdah, Tomoo Inoue
+	Pages: 693-696
+	doi>10.1145/1958824.1958947
+	Full text: PDFPDF
+	
+
+It is known that a virtual teacher-model's position and orientation influence (a) the number of errors, and (b) the accomplishment time, in physical-task learning using mixed reality (MR) environments. This paper proposes an automatic method to adjust ...
+expand
+	Interactions with real and digital elements for collaborative document creation
+	Mariano Perez Pelaez, Ikuro Choh
+	Pages: 697-700
+	doi>10.1145/1958824.1958948
+	Full text: PDFPDF
+	
+
+We present a workspace based on a large interactive desktop that provides interaction with digital information and physical objects. This environment is designed to support the tasks that usually are performed at our laboratory work desk, such as workgroup, ...
+expand
+	Different time management behaviors of Germans, Chinese and Japanese
+	Pei-Luen Patrick Rau, Jun Liu, Stephan Verhasselt, Toshikazu Kato, Christopher M. Schlick
+	Pages: 701-704
+	doi>10.1145/1958824.1958949
+	Full text: PDFPDF
+	
+
+We are studying how to design a collaborative time management system to facilitate intercultural collaborations considering cultural differences. In this paper, we present the results of a pilot study comparing time management behaviors of Germans, Chinese ...
+expand
+	Intellectual property policy and attractiveness: a longitudinal study of free and open source software projects
+	Carlos Denner Santos, Jr., Marcos Bonci Cavalca, Fabio Kon, Julio Singer, Victor Ritter, Damaris Regina, Tamy Tsujimoto
+	Pages: 705-708
+	doi>10.1145/1958824.1958950
+	Full text: PDFPDF
+	
+
+This paper reports early findings of a longitudinal study designed to evaluate the impact of changes in the intellectual property policy of 756 free and open source projects on their attractiveness over 44 months.
+expand
+	Temporal patterns of cohesiveness in virtual groups
+	Victoria L. Schwanda, Kyle Barron, Jennifer Lien, Gretchen Schroeder, Ashley Vernon, Jeffrey T. Hancock
+	Pages: 709-712
+	doi>10.1145/1958824.1958951
+	Full text: PDFPDF
+	
+
+Group cohesiveness is a vital social dynamic that is difficult to achieve in virtual teams, but leadership can help groups move past these challenges. We used the Language Style Matching metric to measure group cohesiveness over the course of interaction ...
+expand
+	A production monitoring and data processing system for the textile enterprise based on multi-Agent
+	Jingfeng Shao, Jinfu Wang, Liping Yang
+	Pages: 713-716
+	doi>10.1145/1958824.1958952
+	Full text: PDFPDF
+	
+
+According to actual requirements of the textile enterprise, a production management structure model based on multi-Agent is proposed by using the multi-Agent technology, relationship model, decision theory and expert system. Then, through comparing the ...
+expand
+	Types of newcomers in an online developer community
+	Vandana Singh, Aditya Johri, Raktim Mitra
+	Pages: 717-720
+	doi>10.1145/1958824.1958953
+	Full text: PDFPDF
+	
+
+In this interactive paper we present preliminary results from an analysis of help seeking interactions of newcomers in an online developer community for beginners. We develop the distinctions among newcomers to create different profiles of newcomers ...
+expand
+	Study of user interruptibility estimation based on focused application switching
+	Takahiro Tanaka, Kinya Fujita
+	Pages: 721-724
+	doi>10.1145/1958824.1958954
+	Full text: PDFPDF
+	
+
+In this study, we propose a user-interruptibility estimation method based on focused application switching (AS) during PC work. It was experimentally demonstrated that the interruptions of AS are more acceptable than those during continuous work. Therefore, ...
+expand
+	A dive into online community properties
+	Patrick Wagstrom, Jacquelyn Martino, Juerg von Kaenel, Marshini Chetty, John Thomas, Lauretta Jones
+	Pages: 725-728
+	doi>10.1145/1958824.1958955
+	Full text: PDFPDF
+	
+
+As digital communities grow in size their feature sets also grow with them. Different users have different experiences with the same tools and communities. Enterprises and other organizations seeking to leverage these communities need a straightforward ...
+expand
+	Express location: supporting coordination of mobile delivery work
+	Markus Westerlund, Maria Normark, Lars Erik Holmquist
+	Pages: 729-732
+	doi>10.1145/1958824.1958956
+	Full text: PDFPDF
+	
+
+This paper introduces Express Location, a mobile web application, supporting drivers in delivery service in the daily coordination of work. Remote communication and cooperation takes place on a shared map view around the drivers' locations and next stop, ...
+expand
+	Integrating Twitter into Wiki to support informal awareness
+	Xuan Zhao, Wenpeng Xiao, Changyan Chi, Min Yang
+	Pages: 733-736
+	doi>10.1145/1958824.1958957
+	Full text: PDFPDF
+	
+
+In the current study, we explored Twitter as a useful and practical extension to a wiki-based collaborative work space. A two-week experiment and a survey study shed some light on the potential benefits of integrating Twitter, or other existing social ...
+expand 
