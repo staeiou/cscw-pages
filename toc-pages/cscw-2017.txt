@@ -1,0 +1,1329 @@
+SESSION: Locations and Relations
+Trust Your Heart: Assessing Cooperation and Trust with Biosignals in Computer-Mediated Interactions
+Nick Merrill, Coye Cheshire
+Pages: 2-12
+doi>10.1145/2998181.2998286
+Full text: PDFPDF
+
+This study examines heartrate sharing in the context of a trust-building game. Through quantitative and qualitative analyses, we find that "elevated" (versus "normal") heartrate of an exchange partner is associated with negative mood attributions and ... expand
+Constructing a Desiring User: Discourse, Rurality, and Design in Location-Based Social Networks
+Jean Hardy, Silvia Lindtner
+Pages: 13-25
+doi>10.1145/2998181.2998347
+Full text: PDFPDF
+
+A growing body of literature addresses the use of Grindr and SCRUFF, location-based networking applications for gay, bisexual, and queer men. This study builds on that work, asking whose sexuality is produced in the design and use of these applications. ... expand
+People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital
+Joey Chiao-Yin Hsiao, Tawanna R. Dillahunt
+Pages: 26-40
+doi>10.1145/2998181.2998280
+Full text: PDFPDF
+
+People-nearby applications (PNAs), such as Tinder and Badoo, help millions of users to make new social connections everyday. However, little is known about how PNAs support offline interactions or what application features are associated with offline ... expand
+What Happens in Happn: The Warranting Powers of Location History in Online Dating
+Xiao Ma, Emily Sun, Mor Naaman
+Pages: 41-50
+doi>10.1145/2998181.2998241
+Full text: PDFPDF
+
+Many location-based dating applications allow users to search for potential matches who are physically proximate. A recent mobile dating application, happn, adds a temporal dimension to location-based dating, showing users the number of times that they ... expand
+SESSION: Communication, Couples, & Control
+Parental Control vs. Teen Self-Regulation: Is there a middle ground for mobile online safety?
+Pamela Wisniewski, Arup Kumar Ghosh, Heng Xu, Mary Beth Rosson, John M. Carroll
+Pages: 51-69
+doi>10.1145/2998181.2998352
+Full text: PDFPDF
+
+We conducted a structured, qualitative feature analysis of 75 Android mobile apps designed for the purpose of promoting adolescent online safety. Through this analysis we identified 42 unique features that mapped to a theoretically derived conceptual ... expand
+Demanding by Design: Supporting Effortful Communication Practices in Close Personal Relationships
+Ryan Kelly, Daniel Gooch, Bhagyashree Patil, Leon Watts
+Pages: 70-83
+doi>10.1145/2998181.2998184
+Full text: PDFPDF
+
+The investment of effort into personal communication can be highly meaningful to people, and has particular significance for the mediation of close relationships. This paper presents qualities of effort investment that are seen to be valuable. Furthermore, ... expand
+In Your Eyes: Anytime, Anywhere Video and Audio Streaming for Couples
+Uddipana Baishya, Carman Neustaedter
+Pages: 84-97
+doi>10.1145/2998181.2998200
+Full text: PDFPDF
+
+Long distance couples face challenges in staying connected and must rely heavily on technology to mediate their relationship. To provide new ways for couples to virtually 'be together,' we explore a futuristic use of video communications technology where ... expand
+Flex-N-Feel: The Design and Evaluation of Emotive Gloves for Couples to Support Touch Over Distance
+Samarth Singhal, Carman Neustaedter, Yee Loong Ooi, Alissa N. Antle, Brendan Matkin
+Pages: 98-110
+doi>10.1145/2998181.2998247
+Full text: PDFPDF
+
+Many couples live apart due to work, educational situations, or frequent travel. While technology can help mediate these relationships, there is a lack of designs that allow couples to share a sense of touch over distance. We present a design case study ... expand
+SESSION: Content Quality
+Shaping Pro and Anti-Social Behavior on Twitch Through Moderation and Example-Setting
+Joseph Seering, Robert Kraut, Laura Dabbish
+Pages: 111-125
+doi>10.1145/2998181.2998277
+Full text: PDFPDF
+
+Online communities have the potential to be supportive, cruel, or anywhere in between. The development of positive norms for interaction can help users build bonds, grow, and learn. Using millions of messages sent in Twitch chatrooms, we explore the ... expand
+A Parsimonious Language Model of Social Media Credibility Across Disparate Events
+Tanushree Mitra, Graham P. Wright, Eric Gilbert
+Pages: 126-145
+doi>10.1145/2998181.2998351
+Full text: PDFPDF
+
+Social media has increasingly become central to the way billions of people experience news and events, often bypassing journalists---the traditional gatekeepers of breaking news. Naturally, this casts doubt on the credibility of information found on ... expand
+Knowledge Sharing in Online Discussion Threads: What Predicts the Ratings?
+Yuyang Liang
+Pages: 146-154
+doi>10.1145/2998181.2998217
+Full text: PDFPDF
+
+As an important category of user-generated content (UGC) community, Question and Answer (Q&A) community offers internet users opportunities to ask questions and share knowledge with others. In order to understand how the ratings of knowledge contribution ... expand
+A Closer Look at the Self-Correcting Crowd: Examining Corrections in Online Rumors
+Ahmer Arif, John J. Robinson, Stephanie A. Stanek, Elodie S. Fichet, Paul Townsend, Zena Worku, Kate Starbird
+Pages: 155-168
+doi>10.1145/2998181.2998294
+Full text: PDFPDF
+
+This paper examines how users of social media correct online rumors during crisis events. Focusing on Twitter, we identify different patterns of information correcting behaviors and describe the actions, motivations, rationalizations and experiences ... expand
+SESSION: Agents, Robots & the Wizard of Oz
+WoZ Way: Enabling Real-time Remote Interaction Prototyping & Observation in On-road Vehicles
+Nikolas Martelaro, Wendy Ju
+Pages: 169-182
+doi>10.1145/2998181.2998293
+Full text: PDFPDF
+
+Interaction designers often have difficulty understanding people's real-world experiences with ubiquitous systems. The automobile is a great example of these challenges, where on-road testing is time-consuming and provides little ability for rapid prototyping ... expand
+Bots as Virtual Confederates: Design and Ethics
+Peter M. Krafft, Michael Macy, Alex "Sandy" Pentland
+Pages: 183-190
+doi>10.1145/2998181.2998354
+Full text: PDFPDF
+
+The use of bots as virtual confederates in online field experiments holds extreme promise as a new methodological tool in computational social science. However, this potential tool comes with inherent ethical challenges. Informed consent can be difficult ... expand
+Configuring the User: "Robots have Needs Too"
+EunJeong Cheon, Norman Makoto Su
+Pages: 191-206
+doi>10.1145/2998181.2998329
+Full text: PDFPDF
+
+Users have played a prominent role as "objects of study" in HCI, CSCW, and HRI (Human-Robot Interaction). Researchers have begun to problematize the asymmetric relationship between technical experts and users. In this paper, we focus on how roboticists-borrowing ... expand
+"Do Animals Have Accents?": Talking with Agents in Multi-Party Conversation
+Martin Porcheron, Joel E. Fischer, Sarah Sharples
+Pages: 207-219
+doi>10.1145/2998181.2998298
+Full text: PDFPDF
+
+In this paper we unpack the use of conversational agents, or so-called intelligent personal assistants (IPAs), in multi-party conversation amongst a group of friends while they are socialising in a café. IPAs such as Siri or Google Now can be found ... expand
+SESSION: Creativity - Supporting Collaboration
+Agile Research Studios: Orchestrating Communities of Practice to Advance Research Training
+Haoqi Zhang, Matthew W. Easterday, Elizabeth M. Gerber, Daniel Rees Lewis, Leesha Maliakal
+Pages: 220-232
+doi>10.1145/2998181.2998199
+Full text: PDFPDF
+
+Undergraduate research experiences enhance learning and professional development, but providing effective and scalable research training is often limited by practical implementation and orchestration challenges. This paper introduces Agile Research Studios ... expand
+Mechanical Novel: Crowdsourcing Complex Work through Reflection and Revision
+Joy Kim, Sarah Sterman, Allegra Argent Beal Cohen, Michael S. Bernstein
+Pages: 233-245
+doi>10.1145/2998181.2998196
+Full text: PDFPDF
+
+Crowdsourcing systems accomplish large tasks with scale and speed by breaking work down into independent parts. However, many types of complex creative work, such as fiction writing, have remained out of reach for crowds because work is tightly interdependent: ... expand
+Mosaic: Designing Online Creative Communities for Sharing Works-in-Progress
+Joy Kim, Maneesh Agrawala, Michael S. Bernstein
+Pages: 246-258
+doi>10.1145/2998181.2998195
+Full text: PDFPDF
+
+Online creative communities allow creators to share their work with a large audience, maximizing opportunities to showcase their work and connect with fans and peers. However, sharing in-progress work can be technically and socially challenging in environments ... expand
+More Than Peer Production: Fanfiction Communities as Sites of Distributed Mentoring
+Sarah Evans, Katie Davis, Abigail Evans, Julie Ann Campbell, David P. Randall, Kodlee Yin, Cecilia Aragon
+Pages: 259-272
+doi>10.1145/2998181.2998342
+Full text: PDFPDF
+
+From Harry Potter to American Horror Story, fanfiction is extremely popular among young people. Sites such as Fanfiction.net host millions of stories, with thousands more posted each day. Enthusiasts are sharing their writing and reading stories written ... expand
+SESSION: Language Matters
+CEPT: Collaborative Editing Tool for Non-Native Authors
+Yeshuang Zhu, Shichao Yue, Chun Yu, Yuanchun Shi
+Pages: 273-285
+doi>10.1145/2998181.2998306
+Full text: PDFPDF
+
+Due to language deficiencies, individual non-native speakers (NNS) face many difficulties while writing. In this paper, we propose to build a collaborative editing system that aims to facilitate the sharing of language knowledge among non-native co-authors, ... expand
+Have your Cake and Eat it Too: Foreign Language Learning with a Crowdsourced Video Captioning System
+Gabriel Culbertson, Solace Shen, Erik Andersen, Malte Jung
+Pages: 286-296
+doi>10.1145/2998181.2998268
+Full text: PDFPDF
+
+Learning from captioned foreign language videos is highly effective, but the availability of such videos is limited. By using speech-to-text technology to generate partially correct transcripts as a starting point, we see an opportunity for learners ... expand
+Why Did They Do That?: Exploring Attribution Mismatches Between Native and Non-Native Speakers Using Videoconferencing
+Helen Ai He, Naomi Yamashita, Ari Hautasaari, Xun Cao, Elaine M. Huang
+Pages: 297-309
+doi>10.1145/2998181.2998205
+Full text: PDFPDF
+
+The meaning we attribute to another's actions significantly impact our subsequent behaviors and interactions towards that person. Distributed teams often combine native speakers (NS) and non-native speakers (NNS) and are particularly prone to making ... expand
+Task Rebalancing: Improving Multilingual Communication with Native Speakers-Generated Highlights on Automated Transcripts
+Mei-Hua Pan, Naomi Yamashita, Hao-Chuan Wang
+Pages: 310-321
+doi>10.1145/2998181.2998304
+Full text: PDFPDF
+
+In multilingual communication through a common language among both native speakers (NS) and non-native speakers (NNS), NNS may encounter problems in comprehending the messages of NS or following conversations. Even though automated speech recognition ... expand
+SESSION: Social Media & The Individual
+Quotes Reveal Community Structure and Interaction Dynamics
+Mattia Samory, Vincenzo-Maria Cappelleri, Enoch Peserico
+Pages: 322-335
+doi>10.1145/2998181.2998359
+Full text: PDFPDF
+
+We investigate community structure and interaction dynamics in online discussion forums through the lens of quotes, examining four forums of different size, language, and topic. Quote usage appears to have an important role in aiding intra-thread navigation, ... expand
+Call for Service: Characterizing and Modeling Police Response to Serviceable Requests on Facebook
+Niharika Sachdeva, Ponnurangam Kumaraguru
+Pages: 336-352
+doi>10.1145/2998181.2998292
+Full text: PDFPDF
+
+Social media platforms have obtained substantial interest of police to connect with residents. This has encouraged residents to report day-to-day law and order concerns such as traffic congestion, missing people, and harassment by cops on these platforms. ... expand
+Gender and Cross-Cultural Differences in Social Media Disclosures of Mental Illness
+Munmun De Choudhury, Sanket S. Sharma, Tomaz Logar, Wouter Eekhout, René Clausen Nielsen
+Pages: 353-369
+doi>10.1145/2998181.2998220
+Full text: PDFPDF
+
+Cultural and gender norms shape how mental illness and therapy are perceived. However, there is a paucity of adequate empirical evidence around gender and cultural dimensions of mental illness. In this paper we situate social media as a "lens" to examine ... expand
+Distilling the Outcomes of Personal Experiences: A Propensity-scored Analysis of Social Media
+Alexandra Olteanu, Onur Varol, Emre Kiciman
+Pages: 370-386
+doi>10.1145/2998181.2998353
+Full text: PDFPDF
+
+Millions of people regularly report the details of their real-world experiences on social media. This provides an opportunity to observe the outcomes of common and critical situations. Identifying and quantifying these outcomes may provide better decision-support ... expand
+SESSION: Politics, Party, Policy, & Participation
+Military Masculinity and the Travails of Transitioning: Disclosure in Social Media
+Bryan Semaan, Lauren M. Britton, Bryan Dosono
+Pages: 387-403
+doi>10.1145/2998181.2998221
+Full text: PDFPDF
+
+Research suggests that the disclosure of struggles and the connection with sympathetic others are critical during periods of transition. Whereas disclosure has been studied in various contexts, the disclosure strategies of USA (US) veterans transitioning ... expand
+Aspirational Design and Messy Democracy: Partisanship, Policy, and Hope in an Asian City
+Guo Freeman, Jeffrey Bardzell, Shaowen Bardzell
+Pages: 404-416
+doi>10.1145/2998181.2998291
+Full text: PDFPDF
+
+Recent research in CSCW, urban informatics, and sociotechnical systems has proposed new framings and emphases of the city as a locus of research on computing and called for a heightened focus on the entanglements of social policy and design. Yet there ... expand
+Quantifying Search Bias: Investigating Sources of Bias for Political Searches in Social Media
+Juhi Kulshrestha, Motahhare Eslami, Johnnatan Messias, Muhammad Bilal Zafar, Saptarshi Ghosh, Krishna P. Gummadi, Karrie Karahalios
+Pages: 417-432
+doi>10.1145/2998181.2998321
+Full text: PDFPDF
+
+Search systems in online social media sites are frequently used to find information about ongoing events and people. For topics with multiple competing perspectives, such as political events or political candidates, bias in the top ranked results significantly ... expand
+Engaging with Political and Social Issues on Facebook in College Life
+Yiran Wang, Gloria Mark
+Pages: 433-445
+doi>10.1145/2998181.2998295
+Full text: PDFPDF
+
+College students are exposed to a vast amount of information on political and social issues through social media. We studied how college students engage with political and social issues on Facebook in a weeklong study with 50 participants using diary ... expand
+SESSION: Education & Games
+'Connected Learning' and the Equity Agenda: A Microsociology of Minecraft Play
+Morgan G. Ames, Jenna Burrell
+Pages: 446-457
+doi>10.1145/2998181.2998318
+Full text: PDFPDF
+
+We present a microsociology of Minecraft play based on ethnographic observations of a 40-hour co-located Minecraft camp for 28 low-income and minority children in July 2015, supplemented by usage statistics and follow-up interviews. We consider the equity ... expand
+Eliph: Effective Visualization of Code History for Peer Assessment in Programming Education
+Jungkook Park, Yeong Hoon Park, Suin Kim, Alice Oh
+Pages: 458-467
+doi>10.1145/2998181.2998285
+Full text: PDFPDF
+
+In this paper, we investigate the effectiveness of visualization of code history on peer assessment in computer science education. Peer assessment is found to be an effective learning tool for programming education. While many systems are proposed to ... expand
+Synchronous Collaborative Writing in the Classroom: Undergraduates' Collaboration Practices and their Impact on Writing Style, Quality, and Quantity
+Soobin Yim, Dakuo Wang, Judith Olson, Viet Vu, Mark Warschauer
+Pages: 468-479
+doi>10.1145/2998181.2998356
+Full text: PDFPDF
+
+Group activities that use Google Docs for simultaneous collaborative writing and editing are increasingly common in higher education. Although studies show that synchronous collaboration can bring multiple benefits, such as enhanced productivity and ... expand
+Placing Value on Community Co-creations: A Study of a Video Game 'Modding' Community
+Lev Poretski, Ofer Arazy
+Pages: 480-491
+doi>10.1145/2998181.2998301
+Full text: PDFPDF
+
+Firms developing software -- and in particular, video game producers - seek to leverage the community of users/developers in enhancing product offering and increasing sales. Despite the practical importance of this phenomena, to date little research ... expand
+SESSION: Teens & Children
+EduFeed: A Social Feed to Engage Preliterate Children in Educational Activities
+Kiley Sobel, Geza Kovacs, Galen McQuillen, Andrew Cross, Nirupama Chandrasekaran, Nathalie Henry Riche, Ed Cutrell, Meredith Ringel Morris
+Pages: 491-504
+doi>10.1145/2998181.2998231
+Full text: PDFPDF
+
+In this work, we present EduFeed, a system that enables preliterate children to explore an algorithmically-mediated social feed of learning exercises, select activities to engage in, and share them with their peers. We deployed EduFeed as a technology ... expand
+How Parents Engage Children in Tablet-Based Reading Experiences: An Exploration of Haptic Feedback
+Drew Cingel, Anne Marie Piper
+Pages: 505-510
+doi>10.1145/2998181.2998240
+Full text: PDFPDF
+
+While recent work examines parents and children reading together on tablet computers, the ways in which interactive elements within e-books affect parent-child interaction are not well understood. We examine haptic feedback as a new form of e-book interactivity ... expand
+Four Factors that Regulate Teen Technology Use in Everyday Life
+Rachel M. Magee, Denise E. Agosto, Andrea Forte
+Pages: 511-522
+doi>10.1145/2998181.2998310
+Full text: PDFPDF
+
+We examine how teens from an urban area in the Mid-Atlantic region of the USA regulate their use of technology. We framed our research using everyday life information seeking theory [43] and information ecologies [35]. Using a survey, audio and photo ... expand
+Parents Just Don't Understand: Why Teens Don't Talk to Parents about Their Online Risk Experiences
+Pamela Wisniewski, Heng Xu, Mary Beth Rosson, John M. Carroll
+Pages: 523-540
+doi>10.1145/2998181.2998236
+Full text: PDFPDF
+
+Past research has shown that parents tend to underestimate the frequency with which their teens experience online risks. However, little is known about whether and how teens communicate with their parents when online risks do occur. In a two-month, web-based ... expand
+SESSION: Leave Me Alone: Privacy & Notifications
+Don't Bother Me. I'm Socializing!: A Breakpoint-Based Smartphone Notification System
+Chunjong Park, Junsung Lim, Juho Kim, Sung-Ju Lee, Dongman Lee
+Pages: 541-554
+doi>10.1145/2998181.2998189
+Full text: PDFPDF
+
+Smartphone notifications provide application-specific information in real-time, but could distract users from in-person social interactions when delivered at inopportune moments. We explore breakpoint-based notification management, in which the smartphone ... expand
+Viewing the Viewers: Publishers' Desires and Viewers' Privacy Concerns in Social Networks
+Roberto Hoyle, Srijita Das, Apu Kapadia, Adam J. Lee, Kami Vaniea
+Pages: 555-566
+doi>10.1145/2998181.2998288
+Full text: PDFPDF
+
+Social networking sites are starting to provide users with services that expose information about their audiences' composition and behavior, such as LinkedIn's 'Who's viewed my profile' feature. Providing information about content viewers to content ... expand
+What (or Who) Is Public?: Privacy Settings and Social Media Content Sharing
+Casey Fiesler, Michaelanne Dye, Jessica L. Feuston, Chaya Hiruncharoenvate, C.J. Hutto, Shannon Morrison, Parisa Khanipour Roshan, Umashanthi Pavalanathan, Amy S. Bruckman, Munmun De Choudhury, Eric Gilbert
+Pages: 567-580
+doi>10.1145/2998181.2998223
+Full text: PDFPDF
+
+When social networking sites give users granular control over their privacy settings, the result is that some content across the site is public and some is not. How might this content--or characteristics of users who post publicly versus to a limited ... expand
+Susceptibility to Social Influence of Privacy Behaviors: Peer versus Authoritative Sources
+Tamir Mendel, Eran Toch
+Pages: 581-593
+doi>10.1145/2998181.2998323
+Full text: PDFPDF
+
+Privacy in Online Social Networks (OSNs) is a dynamic concept, contingent on changes in technology and usage norms. Social influence is a major avenue for adopting online behaviors in general and privacy practices in particular. In this study, we examine ... expand
+SESSION: Design - Supporting Collaboration
+IdeaWall: Improving Creative Collaboration through Combinatorial Visual Stimuli
+Yang Shi, Yang Wang, Ye Qi, John Chen, Xiaoyao Xu, Kwan-Liu Ma
+Pages: 594-603
+doi>10.1145/2998181.2998208
+Full text: PDFPDF
+
+With the recent advances in computer-supported cooperative work systems and increasing popularization of speech-based interfaces, groupware attempting to emulate a knowledgeable participant in a collaborative environment is bound to become a reality ... expand
+Material Vision
+Melanie Feinberg
+Pages: 604-617
+doi>10.1145/2998181.2998204
+Full text: PDFPDF
+
+How do designers identify substances as materials to be worked into artifacts? Understanding how designer-material collaborations are instantiated, and the effect of those relations on design expression, helps us understand how artifacts come to be as ... expand
+Fostering Cooperative Activism through Critical Design
+Maria Menendez-Blanco, Pernille Bjorn, Antonella De Angeli
+Pages: 618-629
+doi>10.1145/2998181.2998198
+Full text: PDFPDF
+
+Critical design is gaining momentum in interaction design, yet little CSCW research has focused on articulating the cooperative potentials of critical design artefacts. We address this gap by reflecting upon a design project aimed at overturning the ... expand
+Design Breakdowns: Designer-Developer Gaps in Representing and Interpreting Interactive Systems
+Nolwenn Maudet, Germán Leiva, Michel Beaudouin-Lafon, Wendy Mackay
+Pages: 630-641
+doi>10.1145/2998181.2998190
+Full text: PDFPDF
+
+Professional interaction designers and software developers have different trainings and skills, yet they need to closely collaborate to create interactive systems. We conducted three studies to understand the mismatches between their processes, tools ... expand
+SESSION: Overcoming Barriers
+Socially Embedded Work: A Study of Wheelchair Users Performing Online Crowd Work in China
+Xianghua Ding, Patrick C. Shih, Ning Gu
+Pages: 642-654
+doi>10.1145/2998181.2998282
+Full text: PDFPDF
+
+Information and Communications Technology (ICT) affords new opportunities for people with disabilities to participate in the workforce. However, little research has investigated how people with disabilities access and perform work through ICT. This paper ... expand
+Going Gray, Failure to Hire, and the Ick Factor: Analyzing How Older Bloggers Talk about Ageism
+Amanda Lazar, Mark Diaz, Robin Brewer, Chelsea Kim, Anne Marie Piper
+Pages: 655-668
+doi>10.1145/2998181.2998275
+Full text: PDFPDF
+
+Ageism is a pervasive, and often invisible, form of discrimination. Though it can affect people of all ages, older adults in particular face age-related stereotypes and bias in their everyday lives. In this paper, we describe the ways in which older ... expand
+The Impact of Assistive Technology on Communication Quality Between Deaf and Hearing Individuals
+Jan Gugenheimer, Katrin Plaumann, Florian Schaub, Patrizia Di Campli San Vito, Saskia Duck, Melanie Rabus, Enrico Rukzio
+Pages: 669-682
+doi>10.1145/2998181.2998203
+Full text: PDFPDF
+
+Deaf individuals often experience communication difficulties in face-to-face interactions with hearing people. In order to support deaf individuals in such situations, an active stream of assistive technology (AT) research focuses on real-time translation ... expand
+AACrobat: Using Mobile Devices to Lower Communication Barriers and Provide Autonomy with Gaze-Based AAC
+Alexander Fiannaca, Ann Paradiso, Mira Shah, Meredith Ringel Morris
+Pages: 683-695
+doi>10.1145/2998181.2998215
+Full text: PDFPDF
+
+Gaze-based alternative and augmentative communication (AAC) devices provide users with neuromuscular diseases the ability to communicate with other people through only the movement of their eyes. These devices suffer from slow input, causing a host of ... expand
+SESSION: The Presentation of Self in Everyday Media
+Photo Sharing in the Arab Gulf: Expressing the Collective and Autonomous Selves
+Norah Abokhodair, Adam Hodges, Sarah Vieweg
+Pages: 696-711
+doi>10.1145/2998181.2998338
+Full text: PDFPDF
+
+Current research demonstrates that when people engage in social photo sharing, they are mindful of how audiences perceive and interact with their photos. We extend this vein of inquiry to focus on photo sharing in the context of the Arab Gulf. We provide ... expand
+Impression Management in High Context Societies: 'Saving Face' with ICT
+Bryan Semaan, Bryan Dosono, Lauren M. Britton
+Pages: 712-725
+doi>10.1145/2998181.2998222
+Full text: PDFPDF
+
+High context societies are defined by their strong interpersonal relationships, where upholding the shared values of the community, writ large, are of the utmost importance. That is, they prioritize collective identity over individual identity. Through ... expand
+Understanding Feedback Expectations on Facebook
+Nir Grinberg, Shankar Kalyanaraman, Lada A. Adamic, Mor Naaman
+Pages: 726-739
+doi>10.1145/2998181.2998320
+Full text: PDFPDF
+
+When people share updates with their friends on Facebook they have varying expectations for the feedback they will receive. In this study, we quantitatively examine the factors contributing to feedback expectations and the potential outcomes of expectation ... expand
+Platforms, People, and Perception: Using Affordances to Understand Self-Presentation on Social Media
+Michael A. DeVito, Jeremy Birnholtz, Jeffery T. Hancock
+Pages: 740-754
+doi>10.1145/2998181.2998192
+Full text: PDFPDF
+
+The popularity of social media platforms today makes them an important venue for self-presentation, but the unique affordances of these platforms challenge our existing models for understanding self-presentation behavior. In particular, social media ... expand
+SESSION: Viva La Video
+The Art and Science of Persuasion: Not All Crowdfunding Campaign Videos are The Same
+Sanorita Dey, Brittany Duff, Karrie Karahalios, Wai-Tat Fu
+Pages: 755-769
+doi>10.1145/2998181.2998229
+Full text: PDFPDF
+
+To successfully raise money using crowdfunding, it is important for a campaign to communicate ideas or products effectively to the potential backers. One of the lesser explored but powerful components of a crowdfunding campaign is the campaign video. ... expand
+Video-based Evanescent, Anonymous, Asynchronous Social Interaction: Motivation and Adaption to Medium
+Xiaojuan Ma, Nan Cao
+Pages: 770-782
+doi>10.1145/2998181.2998256
+Full text: PDFPDF
+
+Danmaku is an emerging socio-digital media paradigm that puts anonymous, asynchronous user-generated scrolling comments on videos. (How) can danmaku afford the illusion and realization of social interactions, if at all possible given its interactional ... expand
+Challenges on the Journey to Co-Watching YouTube
+Emily Sun, Rodrigo de Oliveira, Joshua Lewandowski
+Pages: 783-793
+doi>10.1145/2998181.2998228
+Full text: PDFPDF
+
+In order to better understand social aspects of the short-form video watching experience, we investigated the journey to co-watching, from searching and discovering content, to choosing and experiencing videos with others. After identifying, through ... expand
+Social Watching a Civic Broadcast: Understanding the Effects of Positive Feedback and Other Users' Opinions
+Misa Maruyama, Scott P. Robertson, Sara Douglas, Roxanne Raine, Bryan Semaan
+Pages: 794-807
+doi>10.1145/2998181.2998340
+Full text: PDFPDF
+
+People increasingly turn to social media to augment their broadcast viewing experience with a parallel stream of information and opinion. Known as "social watching," the practice of integrating broadcast media and social media has become routine for ... expand
+SESSION: Data & Work
+Awareness Supporting Technologies used in Collaborative Systems: A Systematic Literature Review
+Gustavo Lopez, Luis A. Guerrero
+Pages: 808-820
+doi>10.1145/2998181.2998281
+Full text: PDFPDF
+
+Since the establishment of Computer Supported Collaborative Work as a research area, computer advances have change the paradigm of how technology is applied to improve the performance in collaborative scenarios. Notifications are an important part of ... expand
+Bots, Seeds and People: Web Archives as Infrastructure
+Ed Summers, Ricardo Punzalan
+Pages: 821-834
+doi>10.1145/2998181.2998345
+Full text: PDFPDF
+
+The field of web archiving provides a unique mix of human and automated agents collaborating to achieve the preservation of the web. Centuries old theories of archival appraisal are being transplanted into the sociotechnical environment of the World ... expand
+Characteristics of Collaboration in the Emerging Practice of Open Data Analysis
+Joohee Choi, Yla Tausczik
+Pages: 835-846
+doi>10.1145/2998181.2998265
+Full text: PDFPDF
+
+The democratization of data science and open government data initiatives are inspiring groups from civic hackers to data journalists to use data to address social issues. The analysis of open government data is expected to encourage citizens to participate ... expand
+Competing Currencies: Designing for Politics in Units of Measurement
+Amy Voida, Ellie Harmon, Willa Weller, Aubrey Thornsbury, Ariana Casale, Samuel Vance, Forrest Adams, Zach Hoffman, Alex Schmidt, Kevin Grimley, Luke Cox, Aubrey Neeley, Christopher Goodyear
+Pages: 847-860
+doi>10.1145/2998181.2998209
+Full text: PDFPDF
+
+We present results of a qualitative study of the information systems used by college and university food banks and find that their inventory systems are characterized by the patchwork use of multiple units of measurement-currencies-collected at different ... expand
+SESSION: What Works in Crowd Work
+Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction
+Prerna Chikersal, Maria Tomprou, Young Ji Kim, Anita Williams Woolley, Laura Dabbish
+Pages: 873-888
+doi>10.1145/2998181.2998250
+Full text: PDFPDF
+
+Collective intelligence (CI), a group's capacity to perform a wide variety of tasks, is a key factor in successful collaboration. Group composition, particularly diversity and member social perceptiveness, are consistent predictors of CI, but we have ... expand
+A Glimpse Far into the Future: Understanding Long-term Crowd Worker Quality
+Kenji Hata, Ranjay Krishna, Li Fei-Fei, Michael S. Bernstein
+Pages: 889-901
+doi>10.1145/2998181.2998248
+Full text: PDFPDF
+
+Microtask crowdsourcing is increasingly critical to the creation of extremely large datasets. As a result, crowd workers spend weeks or months repeating the exact same tasks, making it necessary to understand their behavior over these long periods of ... expand
+Collaboration Trumps Homophily in Urban Mobile Crowdsourcing
+Thivya Kandappu, Archan Misra, Randy Tandriansyah
+Pages: 902-915
+doi>10.1145/2998181.2998311
+Full text: PDFPDF
+
+This paper establishes the power of dynamic collaborative task completion among workers for urban mobile crowd-sourcing. Collaboration is defined via the notion of peer referrals, whereby a worker who has accepted a location-specific task, but is unlikely ... expand
+SESSION: Emergency & Safety Work - Collaboration around
+Designing for Targeted Responder Models: Exploring Barriers to Respond
+Kerem Ozcan, Dawn Jorgenson, Christian Richard, Gary Hsieh
+Pages: 916-924
+doi>10.1145/2998181.2998334
+Full text: PDFPDF
+
+Targeted responder model is a recent approach in providing initial treatment to cardiac arrest patients. In this model, a group of trained responders are dispatched via mobile devices to nearby cardiac arrests. While prior work shows that targeted responder ... expand
+Mobile Collaboration for Human and Canine Police Explosive Detection Teams
+Joelle Alcaidinho, Larry Freil, Taylor Kelly, Kayla Marland, Chunhui Wu, Bradley Wittenbrook, Giancarlo Valentin, Melody Jackson
+Pages: 925-933
+doi>10.1145/2998181.2998271
+Full text: PDFPDF
+
+We designed a communication system for law enforcement officers to use when conducting explosive detection searches with multiple agencies. Dogs trained in explosive detection work alongside human handlers to form a K9 team, which are an integral part ... expand
+Constructing Common Information Spaces across Distributed Emergency Medical Teams
+Zhan Zhang, Aleksandra Sarcevic, Claus Bossen
+Pages: 934-947
+doi>10.1145/2998181.2998328
+Full text: PDFPDF
+
+This paper investigates coordination and real-time information sharing across four emergency medical teams in a high-risk and distributed setting as they provide care to critically injured patients within the first hour after injury. Through multiple ... expand
+Collaboration And Awareness Amongst Flight Attendants
+Stephanie Wong, Carman Neustaedter
+Pages: 948-961
+doi>10.1145/2998181.2998355
+Full text: PDFPDF
+
+Collaboration is a core component of work activities amongst flight attendants as they work to promote onboard safety and a high level of customer service. Yet we know little of how flight attendants collaborate and whether or not technology adequately ... expand
+SESSION: Work & Production Practices
+Detailing a Spectrum of Motivational Forces Shaping Nomadic Practices
+Aparecido Fabiano Pinatti de Carvalho, Luigina Ciolfi, Breda Gray
+Pages: 962-977
+doi>10.1145/2998181.2998313
+Full text: PDFPDF
+
+Recent CSCW research has shown that nomadicity can be seen as a dynamic process that emerges as people engage with practices supporting them in the mobilisation of their workplace to accomplish work in and across different locations. This paper elaborates ... expand
+The Challenge of Enterprise Social Networking (Non-)Use at Work: A Case Study of How to Positively Influence Employees' Enterprise Social Networking Acceptanc
+Sven Laumer, N. Sadat Shami, Michael Muller, Werner Geyer
+Pages: 978-994
+doi>10.1145/2998181.2998309
+Full text: PDFPDF
+
+Enterprise social networking (ESN) platforms have been implemented by organizations to support employees' collaboration. However, there has been a reported lack of user participation on these platforms. This study focuses on interventions that can be ... expand
+"They're all going out to something weird": Workflow, Legacy and Metadata in the Music Production Process
+Glenn McGarry, Peter Tolmie, Steve Benford, Chris Greenhalgh, Alan Chamberlain
+Pages: 995-1008
+doi>10.1145/2998181.2998325
+Full text: PDFPDF
+
+In this paper we use results from two ethnographic studies of the music production process to examine some key issues regarding how work is currently accomplished in studio production environments. These issues relate in particular to workflows and how ... expand
+What Did I Ask You to Do, by When, and for Whom?: Passion and Compassion in Request Management
+Michael Muller, Casey Dugan, Michael Brenndoerfer, Megan Monroe, Werner Geyer
+Pages: 1009-1023
+doi>10.1145/2998181.2998251
+Full text: PDFPDF
+
+Request management occurs at an intersection of CSCW and personal information management (i.e., to-do management), with particular emphasis on social relationships and organizational accountability. We explore diverse work practices and representations ... expand
+SESSION: Models & Language in Work & Investment
+Fruitful Feedback: Positive Affective Language and Source Anonymity Improve Critique Reception and Work Outcomes
+Thi Thao Duyen T. Nguyen, Thomas Garncarz, Felicia Ng, Laura A. Dabbish, Steven P. Dow
+Pages: 1024-1034
+doi>10.1145/2998181.2998319
+Full text: PDFPDF
+
+Feedback is information that can improve task performance. Online communities, educational forums, and crowd-based feedback platforms all support feedback exchange among a more diverse set of sources than ever before, with greater control over how to ... expand
+Algorithmic Mediation in Group Decisions: Fairness Perceptions of Algorithmically Mediated vs. Discussion-Based Social Division
+Min Kyung Lee, Su Baykal
+Pages: 1035-1048
+doi>10.1145/2998181.2998230
+Full text: PDFPDF
+
+How do individuals perceive algorithmic vs. group-made decisions? We investigated people's perceptions of mathematically-proven fair division algorithms making social division decisions. In our first qualitative study, about one third of the participants ... expand
+Using the Model of Regulation to Understand Software Development Collaboration Practices and Tool Support
+Maryi Arciniegas-Mendez, Alexey Zagalsky, Margaret-Anne Storey, Allyson Fiona Hadwin
+Pages: 1049-1065
+doi>10.1145/2998181.2998360
+Full text: PDFPDF
+
+We developed the Model of Regulation to provide a vocabulary for comparing and analyzing collaboration practices and tools in software engineering. This paper discusses the model's ability to capture how individuals self-regulate their own tasks and ... expand
+Empowering Investors with Social Annotation When Saving for Retirement
+Junius Gunaratne, Jeremy Burke, Oded Nov
+Pages: 1066-1081
+doi>10.1145/2998181.2998253
+Full text: PDFPDF
+
+Financial prospectuses, which are available to consumers who buy financial products, are intended to help inform decision-making. While prospectuses provide a wealth of information, they are complex and difficult to understand for the vast majority of ... expand
+SESSION: Gender, Death, & Design
+FollowBias: Supporting Behavior Change toward Gender Equality by Networked Gatekeepers on Social Media
+J. Nathan Matias, Sarah Szalavitz, Ethan Zuckerman
+Pages: 1082-1095
+doi>10.1145/2998181.2998287
+Full text: PDFPDF
+
+Networked gatekeepers on social media increasingly influence which people and groups receive media attention. Many unknowingly direct much greater attention to men than to women. Can technologies support these gatekeepers to follow their own values of ... expand
+Possibilities and Limitations of Online Document Tools for Design Collaboration: The Case of Google Docs
+Young-Wook Jung, Youn-kyung Lim, Myung-suk Kim
+Pages: 1096-1108
+doi>10.1145/2998181.2998297
+Full text: PDFPDF
+
+Online document collaboration tools, such as Google Docs, offer designers different ways of communicating and working collaboratively compared to face-to-face interaction. In this paper, we attempt to explore the possibilities and limitations of using ... expand
+The Crafting of DIY Fatherhood
+Tawfiq Ammari, Sarita Schoenebeck, Silvia Lindtner
+Pages: 1109-1122
+doi>10.1145/2998181.2998270
+Full text: PDFPDF
+
+Prior research shows that the social construction of gender evolves in relation to specific economic and social processes. This paper examines how the practice of DIY (do-it-yourself) making has become a productive frame for a collective of fathers in ... expand
+"This will cause a lot of work.": Coping with Transferring Files and Passwords as Part of a Personal Digital Legacy
+Joachim Pfister
+Pages: 1123-1138
+doi>10.1145/2998181.2998262
+Full text: PDFPDF
+
+We present a qualitative interview study of 39 participants who describe their current practices and concerns with shaping a digital legacy, especially when they are using cloud-based storage services that unify secure file storage and password management ... expand
+SESSION: Challenges in Sharing Experiences
+PSAllocator: Multi-Task Allocation for Participatory Sensing with Sensing Capability Constraints
+Jiangtao Wang, Yasha Wang, Daqing Zhang, Feng Wang, Yuanduo He, Liantao Ma
+Pages: 1139-1151
+doi>10.1145/2998181.2998193
+Full text: PDFPDF
+
+This paper proposes a novel multi-task allocation framework, named PSAllocator, for participatory sensing (PS). Different from previous single-task oriented approaches, which select an optimal set of users for each single task independently, PSAllocator ... expand
+Human Library: Understanding Experience Sharing for Community Knowledge Building
+Yun Huang, Brian Dobreski, Huichuan Xia
+Pages: 1152-1165
+doi>10.1145/2998181.2998312
+Full text: PDFPDF
+
+The human library is an event intended to engage members of the community in sharing and learning from each other's experiences, and is growing in popularity internationally. Human libraries fall within the larger scope of community knowledge sharing ... expand
+"At times avuncular and cantankerous, with the reflexes of a mongoose": Understanding Self-Expression through Augmentative and Alternative Communication Devices
+Shaun K. Kane, Meredith Ringel Morris, Ann Paradiso, Jon Campbell
+Pages: 1166-1179
+doi>10.1145/2998181.2998284
+Full text: PDFPDF
+
+Amyotrophic Lateral Sclerosis (ALS) is a disease that causes individuals to lose their ability to control their muscles, eventually leaving them unable to speak or write. People with ALS often transition to using an augmentative and alternative communication ... expand
+Automatic Alt-text: Computer-generated Image Descriptions for Blind Users on a Social Network Service
+Shaomei Wu, Jeffrey Wieland, Omid Farivar, Julie Schiller
+Pages: 1180-1192
+doi>10.1145/2998181.2998364
+Full text: PDFPDF
+
+We designed and deployed automatic alt-text (AAT), a system that applies computer vision technology to identify faces, objects, and themes from photos to generate photo alt-text for screen reader users on Facebook. We designed our system through iterations ... expand
+SESSION: Trolls & Harassment
+Snitches, Trolls, and Social Norms: Unpacking Perceptions of Social Media Use for Crime Prevention
+Aarti Israni, Sheena Erete, Che L. Smith
+Pages: 1193-1209
+doi>10.1145/2998181.2998238
+Full text: PDFPDF
+
+In this paper, we describe how people perceive the use of social media to support crime prevention in their communities. Based on survey and interview data from residents in high- and low-crime neighborhoods in Chicago, we found that African Americans, ... expand
+"They basically like destroyed the school one day": On Newer App Features and Cyberbullying in Schools
+Vivek K. Singh, Marie L. Radford, Qianjia Huang, Susan Furrer
+Pages: 1210-1216
+doi>10.1145/2998181.2998279
+Full text: PDFPDF
+
+This exploratory work studies the effects of emerging app features on the cyberbullying practices in high school settings. These include the increasing prevalence of image/video content, perceived ephemerality, anonymity, and hyperlocal communication. ... expand
+Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions
+Justin Cheng, Michael Bernstein, Cristian Danescu-Niculescu-Mizil, Jure Leskovec
+Pages: 1217-1230
+doi>10.1145/2998181.2998213
+Full text: PDFPDF
+
+In online communities, antisocial behavior such as trolling disrupts constructive discussion. While prior work suggests that trolling behavior is confined to a vocal and antisocial minority, we demonstrate that ordinary people can engage in such behavior ... expand
+Identifying Women's Experiences With and Strategies for Mitigating Negative Effects of Online Harassment
+Jessica Vitak, Kalyani Chadha, Linda Steiner, Zahra Ashktorab
+Pages: 1231-1245
+doi>10.1145/2998181.2998337
+Full text: PDFPDF
+
+The popularity, availability, and ubiquity of information and communication technologies create new opportunities for online harassment. The present study evaluates factors associated with young adult women's online harassment experiences through a multi-factor ... expand
+SESSION: Crisis Management
+The Role of Information Visibility in Network Gatekeeping: Information Aggregation on Reddit during Crisis Events
+Alex Leavitt, John J. Robinson
+Pages: 1246-1261
+doi>10.1145/2998181.2998299
+Full text: PDFPDF
+
+As social media platforms witness more and more contributions from participants during developing crisis events, some platforms provide affordances that support visibility for specific pieces of information. However, the design of information visibility, ... expand
+Visual Representations of Disaster
+Melissa Bica, Leysia Palen, Chris Bopp
+Pages: 1262-1276
+doi>10.1145/2998181.2998212
+Full text: PDFPDF
+
+Nepal was struck by two major earthquakes in April and May 2015 which gave rise to much media attention. Because of photographs' power to influence how people perceive significant events, we investigate how these disasters are represented visually through ... expand
+Social Media Seamsters: Stitching Platforms & Audiences into Local Crisis Infrastructure
+Dharma Dailey, Kate Starbird
+Pages: 1277-1289
+doi>10.1145/2998181.2998290
+Full text: PDFPDF
+
+This paper examines social media use after a tragic disaster in a rural community in the USA--the 2014 Oso Landslide. Drawing upon interviews with community members and digital traces from multiple platforms, we explore how affected locals, government ... expand
+Mass Participation During Emergency Response: Event-centric Crowdsourcing in Humanitarian Mapping
+Martin Dittus, Giovanni Quattrone, Licia Capra
+Pages: 1290-1303
+doi>10.1145/2998181.2998216
+Full text: PDFPDF
+
+Crowdsourcing platforms have become important information providers after disaster events. While they can build on some prior experiences, it is not yet well understood how contributor capacity for such activities is constituted. To what extent are initiatives ... expand
+SESSION: Tracking Activity & Health
+A Park or A Highway: Overcoming Tensions in Designing for Socio-emotional and Informational Needs in Online Health Communities
+Drashko Nakikj, Lena Mamykina
+Pages: 1304-1319
+doi>10.1145/2998181.2998339
+Full text: PDFPDF
+
+Over the years online health communities (OHCs) have become an important source of information regarding health management and a place for social interaction and emotional support. Previous research suggested that these two types of social support have ... expand
+Assessing Behavior Stage Progression From Social Media Data
+Jiaxin Liu, Elissa R. Weitzman, Rumi Chunara
+Pages: 1320-1333
+doi>10.1145/2998181.2998336
+Full text: PDFPDF
+
+Important work rooted in psychological theory posits that health behavior change occurs through a series of discrete stages. Our work builds on the field of social computing by identifying how social media data can be used to resolve behavior stages ... expand
+Computational Approaches Toward Integrating Quantified Self Sensing and Social Media
+Munmun De Choudhury, Mrinal Kumar, Ingmar Weber
+Pages: 1334-1349
+doi>10.1145/2998181.2998219
+Full text: PDFPDF
+
+The growing amount of data collected by quantified self tools and social media hold great potential for applications in personalized medicine. Whereas the first includes health-related physiological signals, the latter provides insights into a user's ... expand
+Participant Driven Photo Elicitation for Understanding Activity Tracking: Benefits and Limitations
+Nanna Gorm, Irina Shklovski
+Pages: 1350-1361
+doi>10.1145/2998181.2998214
+Full text: PDFPDF
+
+Studying in-situ technology use over time can be difficult and this is especially so when considering technologies such as activity tracking devices explicitly designed to be unobtrusive. Yet understanding activity tracking in practice is crucial, as ... expand
+SESSION: Online Movements
+Girls Rule, Boys Drool: Extracting Semantic and Affective Stereotypes from Twitter
+Kenneth Joseph, Wei Wei, Kathleen M. Carley
+Pages: 1362-1374
+doi>10.1145/2998181.2998187
+Full text: PDFPDF
+
+Social identities carry widely agreed upon meanings, called stereotypes, that have important effects on social processes. In the present work, we develop a method to extract the stereotypes of Twitter users. Our method is grounded in two distinct strands ... expand
+Growing Their Own: Legitimate Peripheral Participation for Computational Learning in an Online Fandom Community
+Casey Fiesler, Shannon Morrison, R. Benjamin Shapiro, Amy S. Bruckman
+Pages: 1375-1386
+doi>10.1145/2998181.2998210
+Full text: PDFPDF
+
+Online communities dedicated to the creation of fanworks (e.g., fiction or art inspired by media such as books or television shows) often serve as communities of practice for learning communication, artistic, and technical skills. In studying one successful ... expand
+#Indigenous: Tracking the Connective Actions of Native American Advocates on Twitter
+Morgan Vigil-Hayes, Marisa Duarte, Nicholet Deschine Parkhurst, Elizabeth Belding
+Pages: 1387-1399
+doi>10.1145/2998181.2998194
+Full text: PDFPDF
+
+With fewer than 66% of eligible voters registered and voter turnout rates 5-14 percentage points lower than any other ethnic group, Native Americans comprise the least participatory ethnic group in U.S. political elections [42, 57, 49, 25]. While discourse ... expand
+Black Lives Matter in Wikipedia: Collective Memory and Collaboration around Online Social Movements
+Marlon Twyman, Brian C. Keegan, Aaron Shaw
+Pages: 1400-1412
+doi>10.1145/2998181.2998232
+Full text: PDFPDF
+
+Social movements use social computing systems to complement offline mobilizations, but prior literature has focused almost exclusively on movement actors' use of social media. In this paper, we analyze participation and attention to topics connected ... expand
+SESSION: Ranking & Recommendation
+Uncovering Influence Cookbooks: Reverse Engineering the Topological Impact in Peer Ranking Services
+Erwan Le Merrer, Gilles Trédan
+Pages: 1413-1418
+doi>10.1145/2998181.2998257
+Full text: PDFPDF
+
+Ensuring the early detection of important social network users is a challenging task. Some peer ranking services are now well established, such as PeerIndex, Klout, or Kred. Their function is to rank users according to their influence. This notion of ... expand
+Classification and Detection of Micro-Level Impact of Issue-Focused Documentary Films based on Reviews
+Rezvaneh Rezapour, Jana Diesner
+Pages: 1419-1431
+doi>10.1145/2998181.2998201
+Full text: PDFPDF
+
+We present novel research at the intersection of review mining and impact assessment of issue-focused information products, namely documentary films. We develop and evaluate a theoretically grounded classification schema, related codebook, corpus annotation, ... expand
+Extracting Topics with Focused Communities for Social Content Recommendation
+Theodore Georgiou, Amr El Abbadi, Xifeng Yan
+Pages: 1432-1443
+doi>10.1145/2998181.2998259
+Full text: PDFPDF
+
+A thorough understanding of social media discussions and the demographics of the users involved in these discussions has become critical for many applications like business or political analysis. Such an understanding and its ramifications on the real ... expand
+Toward Better Interactions in Recommender Systems: Cycling and Serpentining Approaches for Top-N Item Lists
+Qian Zhao, Gediminas Adomavicius, F. Maxwell Harper, Martijn Willemsen, Joseph A. Konstan
+Pages: 1444-1453
+doi>10.1145/2998181.2998211
+Full text: PDFPDF
+
+Current recommender systems often show the same most-highly recommended items again and again ignoring the feedback that users neither rate nor click on those items. We conduct an online field experiment to test two ways of manipulating top-N recommendations ... expand
+SESSION: With a Little Help from My Friends... [CAUTION]
+Video-Mediated Peer Support in an Online Community for Recovery from Substance Use Disorders
+Sabirat Rubya, Svetlana Yarosh
+Pages: 1454-1469
+doi>10.1145/2998181.2998246
+Full text: PDFPDF
+
+People in recovery from substance use disorders seek peer support through online health communities like InTheRooms.com (ITR). This community provides the unique opportunity to study video-mediated health peer support online, as it hosts over 100 weekly ... expand
+Design Opportunities for Mental Health Peer Support Technologies
+Kathleen O'Leary, Arpita Bhattacharya, Sean A. Munson, Jacob O. Wobbrock, Wanda Pratt
+Pages: 1470-1484
+doi>10.1145/2998181.2998349
+Full text: PDFPDF
+
+Barriers to accessing mental health care leave the majority of people with mental illnesses without professional care. Peer support has been shown to address gaps in care, and could scale to wider audiences through technology. But technology design for ... expand
+Sensitive Self-disclosures, Responses, and Social Support on Instagram: The Case of #Depression
+Nazanin Andalibi, Pinar Ozturk, Andrea Forte
+Pages: 1485-1500
+doi>10.1145/2998181.2998243
+Full text: PDFPDF
+
+People can benefit from disclosing negative emotions or stigmatized facets of their identities, and psychologists have noted that imagery can be an effective medium for expressing difficult emotions. Social network sites like Instagram offer unprecedented ... expand
+Defining Digital Self-Harm
+Jessica Pater, Elizabeth Mynatt
+Pages: 1501-1513
+doi>10.1145/2998181.2998224
+Full text: PDFPDF
+
+Self-harm is the infliction of pain or injury onto oneself. Though historically these behaviors were relegated to the fringes of communities, information technology now enables new ways to foster and encourage these dangerous activities. This paper defines ... expand
+SESSION: On New & Old Research Methods
+Notes on the Concept of Data Interoperability: Cases from an Ecology of AIDS Research Infrastructures
+David Ribes
+Pages: 1514-1526
+doi>10.1145/2998181.2998344
+Full text: PDFPDF
+
+Data interoperation functions with the logic of a black box. Interoperation is achieved through front-loaded work and epistemically charged negotiation that thereafter become infrastructural, that is, supporting downstream actions without fully revealing ... expand
+When Subjects Interpret the Data: Social Media Non-use as a Case for Adapting the Delphi Method to CSCW
+Eric P.S. Baumer, Xiaotong Xu, Christine Chu, Shion Guha, Geri K. Gay
+Pages: 1527-1543
+doi>10.1145/2998181.2998182
+Full text: PDFPDF
+
+This paper describes the use of the Delphi method as a means of incorporating study participants into the processes of data analysis and interpretation. As a case study, it focuses on perceptions about use and non-use of the social media site Facebook. ... expand
+Crowdsourcing as a Tool for Research: Implications of Uncertainty
+Edith Law, Krzysztof Z. Gajos, Andrea Wiggins, Mary L. Gray, Alex Williams
+Pages: 1544-1561
+doi>10.1145/2998181.2998197
+Full text: PDFPDF
+
+Numerous crowdsourcing platforms are now available to support research as well as commercial goals. However, crowdsourcing is not yet widely adopted by researchers for generating, processing or analyzing research data. This study develops a deeper understanding ... expand
+Inquire: Large-scale Early Insight Discovery for Qualitative Research
+Pablo Paredes, Ana Rufino Ferreira, Cory Schillaci, Gene Yoo, Pierre Karashchuk, Dennis Xing, Coye Cheshire, John Canny
+Pages: 1562-1575
+doi>10.1145/2998181.2998363
+Full text: PDFPDF
+
+We introduce Inquire, a tool designed to enable qualitative exploration of utterances in social media and large-scale texts. As opposed to keyword search, Inquire allows the effective use of sentences as queries to quickly explore millions of documents ... expand
+SESSION: ICT4D
+Supporting Collaboration with Non-Literate Forest Communities in the Congo-Basin
+Michalis Vitos, Julia Altenbuchner, Matthias Stevens, Gillian Conquest, Jerome Lewis, Muki Haklay
+Pages: 1576-1590
+doi>10.1145/2998181.2998242
+Full text: PDFPDF
+
+Providing indigenous communities with ICT tools and methods for collecting and sharing their Traditional Ecological Knowledge is increasingly recognised as an avenue for improvements in environmental governance and social-environmental justice. In this ... expand
+When the Internet Goes Down in Bangladesh
+Mehrab Bin Morshed, Michaelanne Dye, Syed Ishtiaque Ahmed, Neha Kumar
+Pages: 1591-1604
+doi>10.1145/2998181.2998237
+Full text: PDFPDF
+
+We present a study of internet use and its forced non-use in Bangladesh. In light of current initiatives by state and industry actors to improve internet access and bridge the 'digital divide' for under-served, under-resourced, and underrepresented communities ... expand
+SESSION: Caregiving - Collaborative
+Senior Care for Aging in Place: Balancing Assistance and Independence
+Clara Caldeira, Matthew Bietz, Marisol Vidauri, Yunan Chen
+Pages: 1605-1617
+doi>10.1145/2998181.2998206
+Full text: PDFPDF
+
+Increasing demands for senior care raise the challenge of how to support independence in older adults while assisting their health management. Most seniors would like to age in place, but concerns about safety lead many to move to a place that can provide ... expand
+It Takes at Least Two to Tango: Understanding the Cooperative Nature of Elderly Caregiving in Latin America
+Francisco J. Gutierrez, Sergio F. Ochoa
+Pages: 1618-1630
+doi>10.1145/2998181.2998314
+Full text: PDFPDF
+
+Most adult children take care of their parents as they become older. However, the way in which families articulate themselves to care for their older members depends on cultural and social factors, which are different across societies. Given these differences, ... expand
+Supporting Everyday Philanthropy: Care Work In Situ and at Scale
+Ellie Harmon, Matthias Korn, Amy Voida
+Pages: 1631-1645
+doi>10.1145/2998181.2998330
+Full text: PDFPDF
+
+Prior research has drawn attention to numerous problems with ICTs designed for philanthropic contexts. Yet, little is known about how to support philanthropic work in its own right, especially as it transcends formal engagements with nonprofit organizations ... expand
+Ambiguous Accountability: The Challenges of Identifying and Managing Patient-Related Information Problems in Collaborative Patient-Care Teams
+Alison R. Murphy, Madhu C. Reddy
+Pages: 1646-1660
+doi>10.1145/2998181.2998315
+Full text: PDFPDF
+
+Collaborative patient-care teams rely on accurate and complete information in order to make informed decisions about their patients. However, patient-related information problems (PIPs) are a common occurrence in hospital work. These PIPs are any issues ... expand
+SESSION: Crowd Processes
+Putting the Pieces Back Together Again: Contest Webs for Large-Scale Problem Solving
+Thomas W. Malone, Jeffrey V. Nickerson, Robert J. Laubacher, Laur Hesse Fisher, Patrick de Boer, Yue Han, W. Ben Towne
+Pages: 1661-1674
+doi>10.1145/2998181.2998343
+Full text: PDFPDF
+
+A key issue, whenever people work together to solve a complex problem, is how to divide the problem into parts done by different people and combine the parts into a solution for the whole problem. This paper presents a novel way of doing this with groups ... expand
+Capturing Winning Ideas in Online Design Communities
+Faez Ahmed, Mark Fuge
+Pages: 1675-1687
+doi>10.1145/2998181.2998249
+Full text: PDFPDF
+
+This paper describes how to find or filter high-quality ideas submitted by members collaborating together in online communities. Typical means of organizing community submissions, such as aggregating community or crowd votes, suffer from the cold-start ... expand
+Efficiently Identifying a Well-Performing Crowd Process for a Given Problem
+Patrick M. de Boer, Abraham Bernstein
+Pages: 1688-1699
+doi>10.1145/2998181.2998263
+Full text: PDFPDF
+
+With the increasing popularity of crowdsourcing and crowd computing, the question of how to select a well-performing crowd process for a problem at hand is growing ever more important. Prior work casted crowd process selection to an optimization problem, ... expand
+Huddler: Convening Stable and Familiar Crowd Teams Despite Unpredictable Availability
+Niloufar Salehi, Andrew McCabe, Melissa Valentine, Michael Bernstein
+Pages: 1700-1713
+doi>10.1145/2998181.2998300
+Full text: PDFPDF
+
+Distributed, parallel crowd workers can accomplish simple tasks through workflows, but teams of collaborating crowd workers are necessary for complex goals. Unfortunately, a fundamental condition for effective teams -- familiarity with other members ... expand
+SESSION: Illness & Digital Data
+Supporting Patient-Provider Collaboration to Identify Individual Triggers using Food and Symptom Journals
+Jessica Schroeder, Jane Hoffswell, Chia-Fang Chung, James Fogarty, Sean Munson, Jasmine Zia
+Pages: 1726-1739
+doi>10.1145/2998181.2998276
+Full text: PDFPDF
+
+Patient-generated data can allow patients and providers to collaboratively develop accurate diagnoses and actionable treatment plans. Unfortunately, patients and providers often lack effective support to make use of such data. We examine patient-provider ... expand
+Information Work in Bone Marrow Transplant: Reducing Misalignment of Perspectives
+Ayşe G. Büyüktür, Mark S. Ackerman
+Pages: 1740-1752
+doi>10.1145/2998181.2998361
+Full text: PDFPDF
+
+Patients are often overwhelmed in their efforts to understand their illnesses and determine what actions to take. In this paper, we want to show why care is sometimes not co-managed well between clinicians and patients, and the necessary information ... expand
+Design Considerations for Social Fitness Applications: Comparing Chronically Ill Patients and Healthy Adults
+Yu Chen, Yunan Chen, Mirana Michelle Randriambelonoro, Antoine Geissbuhler, Pearl Pu
+Pages: 1753-1762
+doi>10.1145/2998181.2998350
+Full text: PDFPDF
+
+This paper presents findings from a two-month comparative study involving a total of 36 participants using a social fitness application called HealthyTogether. Our aim was to understand whether and how patients with chronic diseases and healthy adults ... expand
+"I'm so glad I met you": Designing Dynamic Collaborative Support for Young Adult Cancer Survivors
+Jordan Eschler, Wanda Pratt
+Pages: 1763-1774
+doi>10.1145/2998181.2998326
+Full text: PDFPDF
+
+Young adult cancer survivors-individuals in their 20's and 30's-must cope with complicated informational and emotional needs that differ from those of other age groups. Although young adult cancer survivors are resourceful in finding information and ... expand
+SESSION: Wikipedia
+Predicting Member Productivity and Withdrawal from Pre-Joining Attachments in Online Production Groups
+Bowen Yu, Yuqing Ren, Loren Terveen, Haiyi Zhu
+Pages: 1775-1784
+doi>10.1145/2998181.2998227
+Full text: PDFPDF
+
+Productive and dedicated members are critical to the success of online production communities like Wikipedia. Many communities organize in subgroups where members voluntarily work on projects of shared interest. In this paper, we investigate how members' ... expand
+The Wikipedia Adventure: Field Evaluation of an Interactive Tutorial for New Users
+Sneha Narayan, Jake Orlowitz, Jonathan Morgan, Benjamin Mako Hill, Aaron Shaw
+Pages: 1785-1799
+doi>10.1145/2998181.2998307
+Full text: PDFPDF
+
+Integrating new users into a community with complex norms presents a challenge for peer production projects like Wikipedia. We present The Wikipedia Adventure (TWA): an interactive tutorial that offers a structured and gamified introduction to Wikipedia. ... expand
+Privacy, Anonymity, and Perceived Risk in Open Collaboration: A Study of Tor Users and Wikipedians
+Andrea Forte, Nazanin Andalibi, Rachel Greenstadt
+Pages: 1800-1811
+doi>10.1145/2998181.2998273
+Full text: PDFPDF
+
+This qualitative study examines privacy practices and concerns among contributors to open collaboration projects. We collected interview data from people who use the anonymity network Tor who also contribute to online projects and from Wikipedia editors ... expand
+Measuring Global Disease with Wikipedia: Success, Failure, and a Research Agenda
+Reid Priedhorsky, Dave Osthus, Ashlynn R. Daughton, Kelly R. Moran, Nicholas Generous, Geoffrey Fairchild, Alina Deshpande, Sara Y. Del Valle
+Pages: 1812-1834
+doi>10.1145/2998181.2998183
+Full text: PDFPDF
+
+Effective disease monitoring provides a foundation for effective public health systems. This has historically been accomplished with patient contact and bureaucratic aggregation, which tends to be slow and expensive. Recent internet-based approaches ... expand
+SESSION: Digital Memories - Creating
+Kurator: Using The Crowd to Help Families With Personal Curation Tasks
+David Merritt, Jasmine Jones, Mark S. Ackerman, Walter S. Lasecki
+Pages: 1835-1849
+doi>10.1145/2998181.2998358
+Full text: PDFPDF
+
+People capture photos, audio recordings, video, and more on a daily basis, but organizing all these digital artifacts quickly becomes a daunting task. Automated solutions struggle to help us manage this data because they cannot understand its meaning. ... expand
+Zaturi: We Put Together the 25th Hour for You. Create a Book for Your Baby
+Bumsoo Kang, Chulhong Min, Wonjung Kim, Inseok Hwang, Chunjong Park, Seungchul Lee, Sung-Ju Lee, Junehwa Song
+Pages: 1850-1863
+doi>10.1145/2998181.2998186
+Full text: PDFPDF
+
+We introduce Zaturi, a system enabling parents to create an audio book for their babies by utilizing micro spare time at work. We define micro spare time at work as tiny fragments of time with low cognitive loads that frequently occur at work, such as ... expand
+KidKeeper: Design for Capturing Audio Mementos of Everyday Life for Parents of Young Children
+Jasmine Jones, David Merritt, Mark S. Ackerman
+Pages: 1864-1875
+doi>10.1145/2998181.2998348
+Full text: PDFPDF
+
+Children grow up fast. Many parents want to capture the candid, fleeting moments of their young children's lives to treasure later, but these moments are difficult to anticipate and to capture without disruption. Current technologies to address this ... expand
+SESSION: Workers
+Work Always in Progress: Analysing Maintenance Practices in Spatial Crowd-sourced Datasets
+Giovanni Quattrone, Martin Dittus, Licia Capra
+Pages: 1876-1889
+doi>10.1145/2998181.2998267
+Full text: PDFPDF
+
+Crowd-mapping is a form of collaborative work that empowers users to share geographic knowledge. Despite geographic information being intrinsically evolving, little research has so far gone into analysing maintenance practices in these domains. In this ... expand
+Communicating Context to the Crowd for Complex Writing Tasks
+Niloufar Salehi, Jaime Teevan, Shamsi Iqbal, Ece Kamar
+Pages: 1890-1901
+doi>10.1145/2998181.2998332
+Full text: PDFPDF
+
+Crowd work is typically limited to simple, context-free tasks because they are easy to describe and understand. In contrast, complex tasks require communication between the requester and workers to achieve mutual understanding, which can be more work ... expand
+Crowd Guilds: Worker-led Reputation and Feedback on Crowdsourcing Platforms
+Mark E. Whiting, Dilrukshi Gamage, Snehalkumar (Neil) S. Gaikwad, Aaron Gilbee, Shirish Goyal, Alipta Ballav, Dinesh Majeti, Nalin Chhibber, Angela Richmond-Fuller, Freddie Vargus, Tejas Seshadri Sarma, Varshine Chandrakanthan, Teogenes Moura, Mohamed Hashim Salih, Gabriel Bayomi Tinoco Kalejaiye, Adam Ginzberg, Catherine A. Mullings, Yoni Dayan, Kristy Milland, Henrique Orefice, Jeff Regino, Sayna Parsi, Kunz Mainali, Vibhor Sehgal, Sekandar Matin, Akshansh Sinha, Rajan Vaish, Michael S. Bernstein
+Pages: 1902-1913
+doi>10.1145/2998181.2998234
+Full text: PDFPDF
+
+Crowd workers are distributed and decentralized. While decentralization is designed to utilize independent judgment to promote high-quality results, it paradoxically undercuts behaviors and institutions that are critical to high-quality work. Reputation ... expand
+Bias in Online Freelance Marketplaces: Evidence from TaskRabbit and Fiverr
+Anikó Hannák, Claudia Wagner, David Garcia, Alan Mislove, Markus Strohmaier, Christo Wilson
+Pages: 1914-1933
+doi>10.1145/2998181.2998327
+Full text: PDFPDF
+
+Online freelancing marketplaces have grown quickly in recent years. In theory, these sites offer workers the ability to earn money without the obligations and potential social biases associated with traditional employment frameworks. In this paper, we ... expand
+SESSION: On Mental Models & Collaboration
+Media, Meaning, and Context Loss in Ephemeral Communication Platforms: A Qualitative Investigation on Snapchat
+Luiz Henrique C.B. Cavalcanti, Alita Pinto, Jed R. Brubaker, Lynn S. Dombrowski
+Pages: 1934-1945
+doi>10.1145/2998181.2998266
+Full text: PDFPDF
+
+Most social media platforms are persistent in nature, enabling users to re-visit content at their discretion. Platforms with design features that support ephemeral communications, such as Snapchat, have become increasingly popular. During the course ... expand
+SearchMessenger: Exploring the Use of Search and Card Sharing in a Messaging Application
+Frank R. Bentley, S. Tejaswi Peesapati
+Pages: 1946-1956
+doi>10.1145/2998181.2998255
+Full text: PDFPDF
+
+Previous work creating systems for collaborative search has mainly focused on solutions for the desktop. However, as the majority of web use moves to mobile phones, few systems have been created on this platform to support collaboration around search ... expand
+Folk Models of Online Behavioral Advertising
+Yaxing Yao, Davide Lo Re, Yang Wang
+Pages: 1957-1969
+doi>10.1145/2998181.2998316
+Full text: PDFPDF
+
+Online Behavioral Advertising (OBA) is pervasive on the Internet. While there is a line of empirical research that studies Internet users' attitudes and privacy preferences of OBA, little is known about their actual understandings of how OBA works. This ... expand
+TypeTalker: A Speech Synthesis-Based Multi-Modal Commenting System
+Ian Arawjo, Dongwook Yoon, François Guimbretière
+Pages: 1970-1981
+doi>10.1145/2998181.2998260
+Full text: PDFPDF
+Other formats:  Mp4Mp4
+
+Speech commenting systems have been shown to facilitate asynchronous online communication from educational discussion to writing feedback. However, the production of speech comments introduces several challenges to users, including overcoming self-consciousness ... expand
+SESSION: Funding & Founders
+Understanding Trust amid Delays in Crowdfunding
+Yongsung Kim, Aaron Shaw, Haoqi Zhang, Elizabeth Gerber
+Pages: 1982-1996
+doi>10.1145/2998181.2998207
+Full text: PDFPDF
+
+Trust is essential for beginning and maintaining relationships online where assessing uncertainties and risks is difficult. While product delays have been shown to reduce trust in e-commerce settings, we understand little about the effect of delays on ... expand
+"Not by Money Alone": Social Support Opportunities in Medical Crowdfunding Campaigns
+Jennifer G. Kim, Kristen Vaccaro, Karrie Karahalios, Hwajung Hong
+Pages: 1997-2009
+doi>10.1145/2998181.2998245
+Full text: PDFPDF
+
+Medical crowdfunding helps patients receive financial support from their distributed social networks online. However, little is known about who the patient's supporters are, what support they provide, and why. To address this, we interviewed fifteen ... expand
+Founder Center: Enabling Access to Collective Social Capital
+Nicolas Kokkalis, Chengdiao Fan, Thomas Breier, Michael S. Bernstein
+Pages: 2010-2022
+doi>10.1145/2998181.2998244
+Full text: PDFPDF
+
+Social costs and limited reach inhibit our use of social capital to solicit help. However, individuals are not the only holders of social capital: groups also possess reputations and social capital, and are often prepared to vouch for their own members. ... expand
+Developing Makerspaces as Sites of Entrepreneurship
+Julie S. Hui, Elizabeth M. Gerber
+Pages: 2023-2038
+doi>10.1145/2998181.2998264
+Full text: PDFPDF
+
+Makerspaces are providing new opportunities for entrepre-neurial development. Based on participant observation and a series of in-depth interviews in an entrepreneurial mak-erspace, we found that the socio-technical environment of a makerspace promotes ... expand
+SESSION: Wikipedia & More
+On the "How" and "Why" of Emergent Role Behaviors in Wikipedia
+Ofer Arazy, Hila Liifshitz-Assaf, Oded Nov, Johannes Daxenberger, Martina Balestra, Coye Cheshire
+Pages: 2039-2051
+doi>10.1145/2998181.2998317
+Full text: PDFPDF
+
+Research on peer-production suggests that as participants choose what actions to perform, prototypical activity patterns emerge. Recent work characterized these patterns and demonstrated that informal emergent roles are highly stable. Nonetheless, we ... expand
+Problematizing and Addressing the Article-as-Concept Assumption in Wikipedia
+Yilun Lin, Bowen Yu, Andrew Hall, Brent Hecht
+Pages: 2052-2067
+doi>10.1145/2998181.2998274
+Full text: PDFPDF
+
+Wikipedia-based studies and systems frequently assume that no two articles describe the same concept. However, in this paper, we show that this article-as-concept assumption is problematic due to editors' tendency to split articles into parent articles ... expand
+Who Wants to Read This?: A Method for Measuring Topical Representativeness in User Generated Content Systems
+Amanda Menking, David W. McDonald, Mark Zachry
+Pages: 2068-2081
+doi>10.1145/2998181.2998254
+Full text: PDFPDF
+
+This methods paper details an approach for identifying the representativeness of content in a user generated content (UGC) system while also accounting for endogeneity bias. We leverage metadata from an independent content provider to generate sets of ... expand
+Wikum: Bridging Discussion Forums and Wikis Using Recursive Summarization
+Amy X. Zhang, Lea Verou, David Karger
+Pages: 2082-2096
+doi>10.1145/2998181.2998235
+Full text: PDFPDF
+
+Large-scale discussions between many participants abound on the internet today, on topics ranging from political arguments to group coordination. But as these discussions grow to tens of thousands of posts, they become ever more difficult for a reader ... expand
+SESSION: Citizen Science
+Vernacular Visualization Practices in a Citizen Science Project
+Jaime Snyder
+Pages: 2097-2111
+doi>10.1145/2998181.2998239
+Full text: PDFPDF
+
+Vernacular visualizations are visual representations of information created by and for non-expert users, in contrast to those developed by experts for specialized audiences. Research looking at everyday design practices and the democratization of innovation ... expand
+Soylent Diet Self-Experimentation: Design Challenges in Extreme Citizen Science Projects
+Markéta Dolejšová, Denisa Kera
+Pages: 2112-2123
+doi>10.1145/2998181.2998365
+Full text: PDFPDF
+
+Quantified self-experimentation with personal diets is a popular activity among health enthusiasts, diagnosed patients, as well as "life hackers" pursuing self-optimization goals. In this paper, we reflect on self-experimentation practices in the context ... expand
+Accounting for Privacy in Citizen Science: Ethical Research in a Context of Openness
+Anne Bowser, Katie Shilton, Jenny Preece, Elizabeth Warrick
+Pages: 2124-2136
+doi>10.1145/2998181.2998305
+Full text: PDFPDF
+
+In citizen science, volunteers collect and share data with researchers, other volunteers, and the public at large. Data shared in citizen science includes information on volunteer location or other sensitive personal information; yet, volunteers do not ... expand
+From Crowd to Community: A Survey of Online Community Features in Citizen Science Projects
+Neal Reeves, Ramine Tinati, Sergej Zerr, Max G. Van Kleek, Elena Simperl
+Pages: 2137-2152
+doi>10.1145/2998181.2998302
+Full text: PDFPDF
+
+Online citizen science projects have been increasingly used in a variety of disciplines and contexts to enable large-scale scientific research. The successes of such projects have encouraged the development of customisable platforms to enable anyone ... expand
+SESSION: Health(care)- Data Tracking & Triggers in Health(care)
+Data Tracking in Search of Workflows
+Naja L. Holten Møller, Pernille Bjørn, Jonas Christoffer Villumsen, Tine C. Hansen Hancock, Toshimitsu Aritake, Shigeyuki Tani
+Pages: 2153-2165
+doi>10.1145/2998181.2998296
+Full text: PDFPDF
+
+Introducing data tracking of patients, doctors, medicine, or medical equipment holds promise to optimize workflows within hospitals. However, placing tracking devices and collecting data does not automatically translate into new workflows; instead, it ... expand
+Clinical and Non-Clinical Handovers: Designing for Critical Moments
+Allan Stisen, Nervo Verdezoto
+Pages: 2166-2178
+doi>10.1145/2998181.2998333
+Full text: PDFPDF
+
+Recent studies call for attention to the relevant work that non-clinical personnel do, not only to support clinical work, but also to the overall healthcare information infrastructure. Based on a case study of orderlies work in a major university hospital, ... expand
+Beyond Health Literacy: Supporting Patient-Provider Communication during an Emergency Visit
+Sun Young Park, Yunan Chen, Shriti Raj
+Pages: 2179-2192
+doi>10.1145/2998181.2998357
+Full text: PDFPDF
+
+Patient-provider communication is crucial to the quality of patient care. To avoid communication breakdowns, existing studies often aim to improve patients' health literacy or providers' interpersonal communication skills. Little has been done to look ... expand
+Send Me a Different Message: Utilizing Cognitive Space to Create Engaging Message Triggers
+Rafal Kocielnik, Gary Hsieh
+Pages: 2193-2207
+doi>10.1145/2998181.2998324
+Full text: PDFPDF
+
+Social systems and applications often rely on message triggers to promote, remind and even persuade people to perform certain actions. However, repeated exposure to these triggers can lead to boredom, annoyance and decreased engagement. While existing ... expand
+SESSION: Meetings & Collaboration Support
+More to Meetings: Challenges in Using Speech-Based Technology to Support Meetings
+Moira McGregor, John C. Tang
+Pages: 2208-2220
+doi>10.1145/2998181.2998335
+Full text: PDFPDF
+
+Personal assistants using a command-dialogue model of speech recognition, such as Siri and Cortana, have become increasingly powerful and popular for individual use. In this paper we explore whether similar techniques could be used to create a speech-based ... expand
+Looking Away and Catching Up: Dealing with Brief Attentional Disconnection in Synchronous Groupware
+Carl Gutwin, Scott Bateman, Gaurav Arora, Ashley Coveney
+Pages: 2221-2235
+doi>10.1145/2998181.2998226
+Full text: PDFPDF
+
+Awareness information in shared-workspace groupware is often ephemeral, and when users are interrupted or look away from the system, they can miss important information about others' activities. These attentional disconnections are brief (generally less ... expand
+Mixed Presence Collaboration using Scalable Visualizations in Heterogeneous Display Spaces
+Thomas Marrinan, Jason Leigh, Luc Renambot, Angus Forbes, Steve Jones, Andrew E. Johnson
+Pages: 2236-2245
+doi>10.1145/2998181.2998346
+Full text: PDFPDF
+
+Mixed presence collaboration involves remote collaboration between multiple collocated groups. This paper presents the design and results of a user study that focused on mixed presence collaboration using large-scale tiled display walls. The research ... expand
+AlphaRead: Support Unambiguous Referencing in Remote Collaboration with Readable Object Annotation
+Yuan-Chia Chang, Hao-Chuan Wang, Hung-kuo Chu, Shung-Ying Lin, Shuo-Ping Wang
+Pages: 2246-2259
+doi>10.1145/2998181.2998258
+Full text: PDFPDF
+
+As experts and expertise are increasingly distributed across distance, remote collaboration on physical tasks also becomes popular. Physical collaboration requires collaborators to produce and resolve references to physical objects unambiguously. We ... expand
+SESSION: Parenting
+Caring through Data: Attending to the Social and Emotional Experiences of Health Datafication
+Elizabeth Kaziunas, Mark S. Ackerman, Silvia Lindtner, Joyce M. Lee
+Pages: 2260-2272
+doi>10.1145/2998181.2998303
+Full text: PDFPDF
+
+Designing systems to support the social context of personal data is a topic of importance in CSCW, particularly in the area of health and wellness. The relational complexities and psychological consequences of living with health data, however, are still ... expand
+"Okay, One More Episode": An Ethnography of Parenting in the Digital Age
+Melissa Mazmanian, Simone Lanette
+Pages: 2273-2286
+doi>10.1145/2998181.2998218
+Full text: PDFPDF
+
+Parenting is a complex and morally loaded endeavor, especially in our technologically saturated world. Popular culture, news articles, and children's groups regularly suggest that parents should monitor and control children's experiences with media. ... expand
+WAKEY: Assisting Parent-child Communication for Better Morning Routines
+Meng-Ying Chan, Yi-Hsuan Lin, Long-Fei Lin, Ting-Wei Lin, Wei-Che Hsu, Chia-yu Chang, Rui Liu, Ko-Yu Chang, Min-hua Lin, Jane Yung-jen Hsu
+Pages: 2287-2299
+doi>10.1145/2998181.2998233
+Full text: PDFPDF
+
+Parent-child communication is an essential element in behavioral and character development in early childhood; however, parents may find it difficult to be aware of how they talk to their children. Through extensive field studies with experts and parents, ... expand
+From Personal Informatics to Family Informatics: Understanding Family Practices around Health Monitoring
+Laura R. Pina, Sang-Wha Sien, Teresa Ward, Jason C. Yip, Sean A. Munson, James Fogarty, Julie A. Kientz
+Pages: 2300-2315
+doi>10.1145/2998181.2998362
+Full text: PDFPDF
+
+In families composed of parents and children, the health of parents and children is often interrelated: the health of children can have an impact on the health of parents, and vice versa. However, the design of health tracking technologies typically ... expand
+SESSION: Teamwork
+What Makes a Strong Team?: Using Collective Intelligence to Predict Team Performance in League of Legends
+Young Ji Kim, David Engel, Anita Williams Woolley, Jeffrey Yu-Ting Lin, Naomi McArthur, Thomas W. Malone
+Pages: 2316-2329
+doi>10.1145/2998181.2998185
+Full text: PDFPDF
+
+Recent research has demonstrated that (a) groups can be characterized by a collective intelligence (CI) factor that measures their ability to perform together on a wide range of different tasks, and (b) this factor can predict groups' performance on ... expand
+Team Dating Leads to Better Online Ad Hoc Collaborations
+Ioanna Lykourentzou, Robert E. Kraut, Steven P. Dow
+Pages: 2330-2343
+doi>10.1145/2998181.2998322
+Full text: PDFPDF
+
+Forming work teams involves matching people with complementary skills and personalities, but requires obtaining such data a priori. We introduce team dating, where people interact on brief tasks before working with a dedicated partner for longer, more ... expand
+Does Collectivism Inhibit Individual Creativity?: The Effects of Collectivism and Perceived Diversity on Individual Creativity and Satisfaction in Virtual Ideation Teams
+Teng Ye, Lionel P. Robert, Jr.
+Pages: 2344-2358
+doi>10.1145/2998181.2998261
+Full text: PDFPDF
+
+One particular problem CSCW and HCI scholars have sought to address through the design of collaborative systems is the issues associated with diversity and creativity. Diversity can promote creativity by exposing individuals to different perspectives ... expand
+SESSION: All About Sharing
+Online Customization Sharing Ecosystems: Components, Roles, and Motivations
+Mona Haraty, Joanna McGrenere, Andrea Bunt
+Pages: 2359-2371
+doi>10.1145/2998181.2998289
+Full text: PDFPDF
+
+The rise of open platforms and public APIs has enabled more users of customizable software to customize by installing plugins or add-ons that are created and shared by others. Despite the prevalence of online customization sharing, we know little about ... expand
+"It's Not Yet A Gift": Understanding Digital Gifting
+Hyosun Kwon, Boriana Koleva, Holger Schnädelbach, Steve Benford
+Pages: 2372-2384
+doi>10.1145/2998181.2998225
+Full text: PDFPDF
+
+A myriad of digital artifacts are routinely exchanged online. While previous studies suggest that these are sometimes considered to be gifts, CSCW has largely overlooked explicit digital gifting where people deliberately choose to give digital media ... expand
+TAMIES: A Study and Model of Adoption in P2P Resource Sharing and Indirect Exchange Systems
+Emily Sun, Ross McLachlan, Mor Naaman
+Pages: 2385-2396
+doi>10.1145/2998181.2998202
+Full text: PDFPDF
+
+Peer-to-peer indirect exchange services, such as sharing sites that facilitate the lending and borrowing of physical goods among neighbors (such as NeighborGoods and Peerby), have not been as widely adopted as direct exchange systems, such as peer-to-peer ... expand
+Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles
+Xiao Ma, Jeffery T. Hancock, Kenneth Lim Mingjie, Mor Naaman
+Pages: 2397-2409
+doi>10.1145/2998181.2998269
+Full text: PDFPDF
+
+Online peer-to-peer platforms like Airbnb allow hosts to list a property (e.g. a house, or a room) for short-term rentals. In this work, we examine how hosts describe themselves on their Airbnb profile pages. We use a mixed-methods study to develop a ... expand
+SESSION: Data Visualization, Gamification, & Virtual Worlds
+Designing Cooperative Gamification: Conceptualization and Prototypical Implementation
+Benedikt Morschheuser, Alexander Maedche, Dominic Walter
+Pages: 2410-2421
+doi>10.1145/2998181.2998272
+Full text: PDFPDF
+
+Organizations deploy gamification in CSCW systems to enhance motivation and behavioral outcomes of users. However, gamification approaches often cause competition between users, which might be inappropriate for working environments that seek cooperation. ... expand
+Immersive Street-level Social Media in the 3D Virtual City: Anticipated User Experience and Conceptual Development
+Hannu Kukka, Minna Pakanen, Mahmoud Badri, Timo Ojala
+Pages: 2422-2435
+doi>10.1145/2998181.2998341
+Full text: PDFPDF
+
+In this paper we explore immersive street-level integration of social media content into collaborative virtual 3D city environments on two levels: i) public, where the virtual environment is populated with relevant social media content (e.g. Twitter ... expand
+Data Vision: Learning to See Through Algorithmic Abstraction
+Samir Passi, Steven Jackson
+Pages: 2436-2447
+doi>10.1145/2998181.2998331
+Full text: PDFPDF
+
+Learning to see through data is central to contemporary forms of algorithmic knowledge production. While often represented as a mechanical application of rules, making algorithms work with data requires a great deal of situated work. This paper examines ... expand
+"I'd Want to Burn the Data or at Least Nobble the Numbers": Towards Data-mediated Building Management for Comfort and Energy Use
+Adrian K. Clear, Sam Mitchell Finnigan, Patrick Olivier, Rob Comber
+Pages: 2448-2461
+doi>10.1145/2998181.2998188
+Full text: PDFPDF
+
+In this paper, we explore the role of pervasive environmental sensor data in workplace building management. Current interactions between management and workplace occupants are limited by the gap between experiences of (dis)comfort (i.e. individual preferences ... expand
+SESSION: Programming
+CollaDroid: Automatic Augmentation of Android Application with Lightweight Interactive Collaboration
+Jiahuan Zheng, Xin Peng, Jiacheng Yang, Huaqian Cai, Gang Huang, Ying Zhang, Wenyun Zhao
+Pages: 2462-2474
+doi>10.1145/2998181.2998278
+Full text: PDFPDF
+
+Collaborative work supported by mobile applications has become more and more popular. Mobile collaboration in some cases needs to be conducted in an interactive way to allow the sharing of the requester screen with the collaborator. Existing interactive ... expand
+Friction in Arenas of Repair: Hacking, Security Research, and Mobile Phone Infrastructure
+Matthias Korn, Susann Wagenknecht
+Pages: 2475-2488
+doi>10.1145/2998181.2998308
+Full text: PDFPDF
+
+This paper studies how communication infrastructure is explored, examined, and evaluated by self-identifying 'security researchers' at hacking conventions. We analyze mobile phone 'security research' as a case of negotiating infrastructural repair. 'Security ... expand
+Can Security Become a Routine?: A Study of Organizational Change in an Agile Software Development Group
+Andreas Poller, Laura Kocksch, Sven Türpe, Felix Anand Epp, Katharina Kinder-Kurlanda
+Pages: 2489-2503
+doi>10.1145/2998181.2998191
+Full text: PDFPDF
+
+Organizational factors influence the success of security initiatives in software development. Security audits and developer training can motivate development teams to adopt security practices, but their interplay with organizational structures and routines ... expand
+Exhaustive Search and Resolution of Puzzles in OT Systems Supporting String-Wise Operations
+Chengzheng Sun, Yi Xu, Agustina Ng
+Pages: 2504-2517
+doi>10.1145/2998181.2998252
+Full text: PDFPDF
+
+OT (Operational Transformation) is a consistency maintenance technique for real-time collaborative editors and a continuous topic of research in CSCW for over two-decades. One main challenge in OT research is to detect and resolve puzzles -- characteristic ... expand
